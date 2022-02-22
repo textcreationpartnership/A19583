@@ -1,0 +1,2091 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Manuale catholicorum A manuall for true Catholickes.</title>
+            <author>Crashaw, William, 1572-1626.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1611</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 78 KB of XML-encoded text transcribed from 68 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19583</idno>
+            <idno type="STC">STC 6018</idno>
+            <idno type="STC">ESTC S118546</idno>
+            <idno type="EEBO-CITATION">99853753</idno>
+            <idno type="PROQUEST">99853753</idno>
+            <idno type="VID">19148</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19583)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19148)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 577:08)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Manuale catholicorum A manuall for true Catholickes.</title>
+                  <author>Crashaw, William, 1572-1626.</author>
+               </titleStmt>
+               <extent>[15], 110, [9] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed [by N. Okes] for Leonard Becket, and are to be sold at his shop in the Temple neere the Church,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1611.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printer's name from STC.</note>
+                  <note>Text in Latin and English.</note>
+                  <note>Partly in verse.</note>
+                  <note>"Enchiridion piarum precum et meditationum" and "A handful: or rather A heartfull of holy meditations and prayers" have separate title page.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church. --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19148:1"/>
+            <pb facs="tcp:19148:1"/>
+            <p>MANVALE Catholicorum.</p>
+            <p>A Manuall FOR <hi>True Catholickes.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Leonard Becket,</hi> and are to be ſold at his Shop in the Temple neere the Church, 1611.</p>
+         </div>
+         <div xml:lang="lat" type="half_title">
+            <pb facs="tcp:19148:2"/>
+            <p>ENCHIRIDI<g ref="char:EOLhyphen"/>ON PIARVM PRECVM ET <hi>Meditationum.</hi>
+            </p>
+            <p>Ex vetuſtiffimis Manu<g ref="char:EOLhyphen"/>ſcript. pergamenis <hi>deſcripta.</hi>
+            </p>
+            <p>Ex Bibliotheca <hi>W. Craſhavi.</hi> Theol Bacchal. &amp; verbi <hi>Div. Mniſtir. apud Temp. Lond.</hi>
+            </p>
+         </div>
+         <div xml:lang="eng" type="half_title">
+            <pb facs="tcp:19148:2"/>
+            <p>A HANDFVL: OR Rather a Heartfull of holy meditations and Prayers.</p>
+            <p>Gathered out of certaine ancient Manuſcripts, written 300 yeares <hi>ago, or more.</hi>
+            </p>
+            <p>By WILLIAM CRASHAW Batchelour of Diuinity, and Preacher at the <hi>Temple.</hi>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:19148:3"/>
+            <pb facs="tcp:19148:3"/>
+            <head>TO THE RIGHT HO<g ref="char:EOLhyphen"/>NOVRABLE LORD: HENRY THE Noble Earle of NORTH<g ref="char:EOLhyphen"/>HAMPTON, Lord priuy Seale, Lord Warden of the Cinc<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Ports, and <hi>one of his Maieſties Honourable priuy Counſell.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>IGHT Honoura<g ref="char:EOLhyphen"/>ble, our Aduerſa<g ref="char:EOLhyphen"/>ries amongſt their many obiections againſt vs and our Religion, vſe this
+<pb facs="tcp:19148:4"/> for one, that if wee refuſe their Church, and con<g ref="char:EOLhyphen"/>demne their faith, wee con<g ref="char:EOLhyphen"/>demne to hell all our fore<g ref="char:EOLhyphen"/>fathers. But it followeth not: for in ſuch fundamental points as neceſſarily con<g ref="char:EOLhyphen"/>cerne ſaluation, as mat<g ref="char:EOLhyphen"/>ter of merit, and meanes of Iuſtification, &amp;c. our fa<g ref="char:EOLhyphen"/>thers in former times were not of the Romiſh faith, but of our Religion: excluding, diſclayming, &amp; renouncing all their owne merits, and cleauing only to Gods mer<g ref="char:EOLhyphen"/>cy, and the merits of Ieſus Chriſt for their ſaluation. This was the faith of the an<g ref="char:EOLhyphen"/>cient Church, &amp;c. Saint<note place="margin">Baſillius in homel in Pſal. 114.</note> 
+               <hi>Baſil</hi> ſaith. Eternall reſt re<g ref="char:EOLhyphen"/>maines
+<pb facs="tcp:19148:4"/> for them which haue fought a good fight in this world, yet not for the merit of their workes, but through the rich mercies of God, in whom they truſt.</p>
+            <p>Saint <hi>Hillary</hi> ſaith, our<note place="margin">Hillarius in Pſal. 51.</note> workes ſuffice not to merit eternall life, but our hope is in the mercy of God for e<g ref="char:EOLhyphen"/>uer and euer.</p>
+            <p>Saint <hi>Auguſtine</hi> ſaith,<note place="margin">Auguſtinus concione 1 in Pſal. 70. Tua peccata ſunt, merita Dei ſunt: ſupplici<g ref="char:EOLhyphen"/>um tibi debe<g ref="char:EOLhyphen"/>tur, et cum praemium ve<g ref="char:EOLhyphen"/>nerit ſua dona coronabit non tua merita.</note> Sin is ours, Merit is Gods: Puniſhments are our due, but if rewardes come, God crownes his owne gifts, not our merites.</p>
+            <p>
+               <note place="margin">Gregory moral lib. 9. ca. 14.</note>Saint <hi>Gregory</hi> (a Pope) ſaith, If I doe well, I ſhall haue eternall life, not by my merits but Gods mercy.</p>
+            <pb facs="tcp:19148:5"/>
+            <p>And long after euen in<note place="margin">Bernardus ſermone. 15. in Pſal. 90.</note> the darkeſt times; deuote <hi>Bernard</hi> ſaith, A mans <hi>whole</hi> merit is to put the <hi>whole</hi> af<g ref="char:EOLhyphen"/>fiance of his heart in him, that hath ſaued the <hi>whole</hi> man, and therfore in another place he concludes, <hi>My me<g ref="char:EOLhyphen"/>rit is the mercy of the Lord.</hi>
+            </p>
+            <p>All theſe <hi>Bellarmine</hi> can<g ref="char:EOLhyphen"/>not<note place="margin">Sermone 61. in Cant. meri<g ref="char:EOLhyphen"/>tum meum miſeratio do<g ref="char:EOLhyphen"/>mini.</note> deny, and himſelfe pro<g ref="char:EOLhyphen"/>duceth ſome of them or all, but ſhapes ſuch anſweres to them, as it would ſatisfye an indifferent man euen to read him in that pont.</p>
+            <p>And this was not the faith<note place="margin">Bellar. to. 4. lib. 5. de luſt. cap. 6.</note> of the principall Fathers on<g ref="char:EOLhyphen"/>ly, but by the mercy of God, it was deriued euen vnto the inferiour, and vul<g ref="char:EOLhyphen"/>gar
+<pb facs="tcp:19148:5"/> ſort, not of the Cleargy alone, but euen of the Laity alſo.</p>
+            <p>If the monuments of elder ages were extant &amp; vncorrup<g ref="char:EOLunhyphen"/>ted, it is more the<g ref="char:cmbAbbrStroke">̄</g> maruailous how cleerly this truth would ſhine: that our forefathers were not damned, though they beleeued, not as doth the preſent <hi>Romiſh</hi> Church: Nay further that they were ſaued by the ſame faith by which wee are at this day, though they were miſled by ſome errours, and nuſled in ſome ſuperſtitions; for which (being ſinnes of in<g ref="char:EOLhyphen"/>firmity, or rather of igno<g ref="char:EOLhyphen"/>rance) we hope the Lord was mercifull vnto them, know<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:19148:6"/> that euen <hi>Dauid</hi> him<g ref="char:EOLhyphen"/>ſelfe cried to God to <hi>clenſe</hi>
+               <note place="margin">Pſal. 19.</note> 
+               <hi>him from his ſecret ſinnes.</hi>
+            </p>
+            <p>But ſuch hath beene the craft and malice of Popiſh policy, that partly the oldeſt bookes are embezilled and extinguiſhed, and thoſe that remaine are ſo altered cor<g ref="char:EOLhyphen"/>rupted and depraued from that they were, that there now remaines not one of many of the teſtimonies, which the former ages yeel<g ref="char:EOLhyphen"/>ded to this truth.</p>
+            <p>Notwithſtanding the prouidence of God hath not failed his Church: for (do what they could) yet he who ſaid <hi>the gates of hell</hi>
+               <note place="margin">Math. 16.</note> 
+               <hi>ſhould not preuaile againſt the
+<pb facs="tcp:19148:6"/> true faith,</hi> hath taken order in ſpight of all plots to the contrary, that ſo many teſti<g ref="char:EOLhyphen"/>monies ſhall be preſerued, as ſhall ſufficiently witneſſe to the world that our faith flouriſhed in former ages.</p>
+            <p>My purpoſe is (if the Lord will) to gather vp ſuch Antiquities though they be ſcattered and almoſt loſt in theſe old worme eaten Ma<g ref="char:EOLhyphen"/>nuſcripts wherein they lye buried, which as Gods pro<g ref="char:EOLhyphen"/>uidence hath deliuered from the force and fury of the in<g ref="char:EOLhyphen"/>quiſitors fire, ſo it is al Chri<g ref="char:EOLhyphen"/>ſtians duties to preſerue them to poſterity.</p>
+            <p>I haue here begun with a <hi>Handfull,</hi> or rather a <hi>Hartfull</hi>
+               <pb facs="tcp:19148:7"/> of holy prayers &amp; meditati<g ref="char:EOLhyphen"/>ons worthy to be worne in the <hi>hand,</hi> and borne in the <hi>heart</hi> of euery Chriſtian, by which it may euidently ap<g ref="char:EOLhyphen"/>peare that the faith and Re<g ref="char:EOLhyphen"/>ligion of the former ages, foure &amp; fiue hundred yeares ago, was euen the ſame by which we looke to bee ſaued at this day.</p>
+            <p>Let this haue leaue (right Honorable) to come abroad out of the corners of obſcu<g ref="char:EOLhyphen"/>rity, into publicke view, in the light &amp; luſtre of your re<g ref="char:EOLhyphen"/>nowned name, who are knowne to bee a reuerencer of Antiquity, a Mecaenas of learning, a practiſer of piety, an enemy to the idolatry,
+<pb facs="tcp:19148:7"/> ſuperſtitions, ambitious pra<g ref="char:EOLhyphen"/>ctiſes, traiterous deuices, and Machiauellian plots of Ie<g ref="char:EOLhyphen"/>ſuites: and a deteſter of ſuch eſpecially, who vnder a pretence of Religion, doe cloake and conuey impieties againſt God, and againſt his annointed.</p>
+            <p>The God of heauen con<g ref="char:EOLhyphen"/>firme that bleſſed worke of his in your Lordſhip more &amp; more, to the glory of his name, the benefite of this Realme, and to your owne ſaluation in Chriſt Ieſus: So praieth</p>
+            <closer>
+               <signed>Your Lordſhips deuoted in Chriſt, W. CRASHAW.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:19148:8"/>
+            <head>The Contents.</head>
+            <list>
+               <item>1 A <hi>Holy and orthodox Con<g ref="char:EOLhyphen"/>feſsion of the Trinity, the Father the Sonne and the holy Ghoſt.</hi>
+               </item>
+               <item>2 <hi>A godly confeſsion of ſinnes and prayer for pardon, and for eternall life.</hi>
+               </item>
+               <item>3 <hi>A godly meditation of mans miſery, and Gods mer<g ref="char:EOLhyphen"/>cy, together with a deuout prayer.</hi>
+               </item>
+               <item>4 <hi>The manner of preparing
+<pb facs="tcp:19148:8"/> ſicke perſons to death in the ancient times<g ref="char:punc">▪</g> euen in Po<g ref="char:EOLhyphen"/>pery.</hi>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="prayers">
+            <pb facs="tcp:19148:9"/>
+            <div type="prayer">
+               <head>De Deo Patre, pia, &amp; ortho<g ref="char:EOLhyphen"/>doxa Confeſſio.</head>
+               <lg>
+                  <l>
+                     <hi>A</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, &amp; <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, Deus,</l>
+                  <l>Hely, Hely, Deus meus.</l>
+               </lg>
+               <lg>
+                  <l>Cuius virtus, totum poſſe:</l>
+                  <l>Cuius ſenſus: totum noſſe.</l>
+               </lg>
+               <lg>
+                  <l>Cuius eſſe, ſummum bonum:</l>
+                  <l>Cuius opus, quicquid bonum.</l>
+               </lg>
+               <lg>
+                  <l>Super cuncta<g ref="char:punc">▪</g> ſubter cuncta:</l>
+                  <l>Extra cuncta, intra cuncta.</l>
+               </lg>
+               <lg>
+                  <l>Super cuncta, nec elatus,</l>
+                  <l>Subter cuncta, nec ſubſtratus.</l>
+               </lg>
+               <lg>
+                  <pb n="3" facs="tcp:19148:10"/>
+                  <l>Extra cuncta, nec exculſus,</l>
+                  <l>Intra cuncta, nec incluſus.</l>
+               </lg>
+               <lg>
+                  <l>Super totus, preſidendo,</l>
+                  <l>Subter totus, ſtuſtinendo.</l>
+               </lg>
+               <lg>
+                  <l>Extra totus complectendo,</l>
+                  <l>Intra totus es implendo.</l>
+               </lg>
+               <lg>
+                  <l>Super nullo ſuſtentaris,</l>
+                  <l>Subter nullo fatigaris.</l>
+               </lg>
+               <lg>
+                  <l>Extra nuſquam dilataris,</l>
+                  <l>Intra nunquam coarctaris.</l>
+               </lg>
+               <lg>
+                  <l>Mundum mouens non moueris,</l>
+                  <l>Locum tenens non teneris.</l>
+               </lg>
+               <lg>
+                  <pb n="5" facs="tcp:19148:11"/>
+                  <l>Tempus mutans, non mutaris,</l>
+                  <l>Vaga firmans non vagaris.</l>
+               </lg>
+               <lg>
+                  <l>Vis externa vel neceſſe,</l>
+                  <l>Non alternat tuum eſſe.</l>
+               </lg>
+               <lg>
+                  <l>Heri noſtrum cras &amp; pridem,</l>
+                  <l>Semper tibi nunc &amp; idem.</l>
+               </lg>
+               <lg>
+                  <l>Tuum decus hodiernum,</l>
+                  <l>Indiuiſum ſempiternum.</l>
+               </lg>
+               <lg>
+                  <l>Tu hoc totum prouidiſti,</l>
+                  <l>Totum ſimul perfeciſti.</l>
+               </lg>
+               <lg>
+                  <l>Ad exemplar ſummae mentis,</l>
+                  <l>Formam praebens elementis.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb facs="tcp:19148:12"/>
+               <head>De Ieſu Chriſto Deo &amp; homine Confeſſio orthodoxa.</head>
+               <lg>
+                  <l>NAte patri Coaequalis,</l>
+                  <l>Patri conſubſtantialis:</l>
+               </lg>
+               <lg>
+                  <l>Patris ſplendor &amp; figura.</l>
+                  <l>Factor factus creatura.</l>
+               </lg>
+               <lg>
+                  <l>Carnem noſtraminduiſti,</l>
+                  <l>Cauſam noſtram ſuſcepiſti.</l>
+               </lg>
+               <lg>
+                  <l>Sempiternus temporalis,</l>
+                  <l>Moriturus immortalis.</l>
+               </lg>
+               <lg>
+                  <l>Verus homo, verus Deus,</l>
+                  <l>Impermixtus homo Deus.</l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:19148:13"/>
+                  <l>Patri compar Deitate,</l>
+                  <l>Minor carnis veritate.</l>
+               </lg>
+               <lg>
+                  <l>Hic aſſumptus est in Deum;</l>
+                  <l>Nec conſumptus propter Deum:</l>
+               </lg>
+               <lg>
+                  <l>Non conuerſus hîc in carnem,</l>
+                  <l>Nec minutus propter carnem.</l>
+               </lg>
+               <lg>
+                  <l>Deus pater tantum Dei,</l>
+                  <l>Virgo mater ſed &amp; Dei.</l>
+               </lg>
+               <lg>
+                  <l>In tam noua ligatura,</l>
+                  <l>Sic vtra<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſtat natura</l>
+               </lg>
+               <lg>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t conſeruet quicquid erat,</l>
+                  <l>Facta quiddam quod non erat.</l>
+               </lg>
+               <lg>
+                  <pb n="11" facs="tcp:19148:14"/>
+                  <l>Noster iſte mediator,</l>
+                  <l>Iſte noſter Cogiſlator.</l>
+               </lg>
+               <lg>
+                  <l>Circumcitus, Baptizatus,</l>
+                  <l>Crucifixis, tumulatus:</l>
+               </lg>
+               <lg>
+                  <l>Obdormiuit &amp; deſcendit,</l>
+                  <l>Reſurrexit &amp; aſcendit.</l>
+               </lg>
+               <lg>
+                  <l>Sic ad caelos eleuatus,</l>
+                  <l>Iudicabit iudicatus.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="13" facs="tcp:19148:15"/>
+               <head>De eodem.</head>
+               <lg>
+                  <l>Q<g ref="char:V">Ʋ</g>em nobis voluit</l>
+                  <l>Diuina potentia <hi>Natum,</hi>
+                  </l>
+                  <l>Quem natum ſuafecerunt,</l>
+                  <l>Miracula <hi>Notum.</hi>
+                  </l>
+                  <l>Quem notum plebeia Cruci</l>
+                  <l>Vult concio <hi>Fixum.</hi>
+                  </l>
+                  <l>Quem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> crucifixum,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>oluit pia turba <hi>Sepultum,</hi>
+                  </l>
+                  <l>Hunc Natum, Notum, fixum,</l>
+                  <l>Terra<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſepultum.</l>
+                  <l>Suſtulit in ſummum,</l>
+                  <l>Diuina potentia Coelum.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="15" facs="tcp:19148:16"/>
+               <head>De Sancto Spiritu Confeſſio Or<g ref="char:EOLhyphen"/>thodoxa.</head>
+               <lg>
+                  <l>PAracletus increatus,</l>
+                  <l>Ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> factus, ne<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> natus.</l>
+               </lg>
+               <lg>
+                  <l>Patri compar filio<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>,</l>
+                  <l>Sic procedit ab vtro<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>.</l>
+               </lg>
+               <lg>
+                  <l>Ne ſit minor poteſtate,</l>
+                  <l>Vel diſcrotus qualitate.</l>
+               </lg>
+               <lg>
+                  <l>Quanti illi, tantus iste,</l>
+                  <l>Quales illi, talis iſte.</l>
+               </lg>
+               <lg>
+                  <l>Ex qui illi, ex tunc iſte,</l>
+                  <l>Quantum illi, tantum iſte.</l>
+               </lg>
+               <lg>
+                  <pb n="17" facs="tcp:19148:17"/>
+                  <l>Pater alter ſed gignendo.</l>
+                  <l>Natus alter, ſed naſcendo,</l>
+               </lg>
+               <lg>
+                  <l>Flamen ab his pracedendo,</l>
+                  <l>Tres ſunt vnum ſubſiſtendo.</l>
+               </lg>
+               <lg>
+                  <l>Quiſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> trium plenus Deus,</l>
+                  <l>Non tres tamen Dij, ſed Deus.</l>
+               </lg>
+               <lg>
+                  <l>In hoc Deo, Deo vero,</l>
+                  <l>Tres &amp; vnum aſſeuero.</l>
+               </lg>
+               <lg>
+                  <l>Dans <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> vnitatem,</l>
+                  <l>Et perſonis trinitatem.</l>
+               </lg>
+               <lg>
+                  <l>In perſonis nulla prior,</l>
+                  <l>Nulla maior, nulla minor.</l>
+               </lg>
+               <lg>
+                  <pb n="19" facs="tcp:19148:18"/>
+                  <l>
+                     <g ref="char:V">Ʋ</g>na<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſemper ipſa,</l>
+                  <l>Sic eſt conſtans at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> fixa.</l>
+               </lg>
+               <lg>
+                  <l>Vt nec in ſe varietur,</l>
+                  <l>Nec in vllam tranſmutetur.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="21" facs="tcp:19148:19"/>
+               <head>Concluſio cum deuotiſ<g ref="char:EOLhyphen"/>ſima Precatione.</head>
+               <lg>
+                  <l>HAec eſt fides orthodoxa,</l>
+                  <l>Non hic error ſiue noxa.</l>
+               </lg>
+               <lg>
+                  <l>Sicut dico. ſic &amp; credo,</l>
+                  <l>Nec in prauam partem cedo.</l>
+               </lg>
+               <lg>
+                  <l>Inde veni bone Deus,</l>
+                  <l>Ne desperem quamuis reus.</l>
+               </lg>
+               <lg>
+                  <l>Reus mortis non despero,</l>
+                  <l>Sed in morte vitam quaero.</l>
+               </lg>
+               <lg>
+                  <l>Quo te placeam non pretendo,</l>
+                  <l>Niſi fidem quam defendo.</l>
+               </lg>
+               <lg>
+                  <pb n="23" facs="tcp:19148:20"/>
+                  <l>Fidem vides hac imploro,</l>
+                  <l>Leua faſcem quo laboro.</l>
+               </lg>
+               <lg>
+                  <l>Per hoc ſacrum cataplaſma,</l>
+                  <l>Conualeſcat agrum plaſma.</l>
+               </lg>
+               <lg>
+                  <l>Extra portem iam delatum,</l>
+                  <l>Iamiam faetens, tumulatum.</l>
+               </lg>
+               <lg>
+                  <l>Vitta ligat, lapis vrget,</l>
+                  <l>Sed ſi iubes, hic reſurget:</l>
+               </lg>
+               <lg>
+                  <l>Iube, lapis reuoluetur,</l>
+                  <l>Iube, vitta diſrumpetur.</l>
+               </lg>
+               <lg>
+                  <l>Exiturus neſcit mor as,</l>
+                  <l>Si tu clamas, Exi for as.</l>
+               </lg>
+               <lg>
+                  <pb n="25" facs="tcp:19148:21"/>
+                  <l>In hoe Salo mea Ratis,</l>
+                  <l>Infestatur à Pyratis.</l>
+               </lg>
+               <lg>
+                  <l>Hinc aſſultus, inde fluctus,</l>
+                  <l>Hinc &amp; inde mors &amp; luctus.</l>
+               </lg>
+               <lg>
+                  <l>Sed tu bone Nauta veni,</l>
+                  <l>Poſt me ventos mare leni.</l>
+               </lg>
+               <lg>
+                  <l>Fac abſcedant hi pyratae,</l>
+                  <l>Duc ad portum ſalua Rate.</l>
+               </lg>
+               <lg>
+                  <l>In faecunda mea ficus,</l>
+                  <l>Cuius ramus, ramus ſiccus.</l>
+               </lg>
+               <lg>
+                  <l>Incidetur, incendetur,</l>
+                  <l>Si promulgas quod meretur.</l>
+               </lg>
+               <lg>
+                  <pb n="27" facs="tcp:19148:22"/>
+                  <l>Sed hoc anno dimittatur,</l>
+                  <l>Stercoretur fodiatur.</l>
+               </lg>
+               <lg>
+                  <l>Quod ſinec dum reſpondebit,</l>
+                  <l>Flens haec dico, tunc ardebit.</l>
+               </lg>
+               <lg>
+                  <l>Vetus hoſtis in me furit,</l>
+                  <l>Aquis merſat flammis vrit.</l>
+               </lg>
+               <lg>
+                  <l>Inde languens &amp; afflictus,</l>
+                  <l>Tibi ſoli ſum relictus.</l>
+               </lg>
+               <lg>
+                  <l>Vt hic hoſtis euaneſcat,</l>
+                  <l>Vt infirmus conualeſcat.</l>
+               </lg>
+               <lg>
+                  <l>Tu virtutem ieiunandi,</l>
+                  <l>Des infirmo, des orandi.</l>
+               </lg>
+               <lg>
+                  <pb n="29" facs="tcp:19148:23"/>
+                  <l>Per hac duo (Christo teſte)</l>
+                  <l>Liberabor ab hoc peſte.</l>
+               </lg>
+               <lg>
+                  <l>Ab hoc peſte ſolue mentem,</l>
+                  <l>Fac deuotum, penitentem.</l>
+               </lg>
+               <lg>
+                  <l>Da timorem quo proiecto,</l>
+                  <l>De ſalute nil coniecto:</l>
+               </lg>
+               <lg>
+                  <l>Da ſpem, fidem, charitatem,</l>
+                  <l>Da diſcretam pietatem,</l>
+               </lg>
+               <lg>
+                  <l>Da contemptum terrenorum,</l>
+                  <l>Appetitum ſupernorum.</l>
+               </lg>
+               <lg>
+                  <l>Totum Deus in te ſpero,</l>
+                  <l>Deus es, te totum quaero.</l>
+               </lg>
+               <lg>
+                  <pb n="31" facs="tcp:19148:24"/>
+                  <l>Tu laus mea, meum bonum,</l>
+                  <l>Mea cuncta tuum donum.</l>
+               </lg>
+               <lg>
+                  <l>Tu ſolamen in labore,</l>
+                  <l>Medicamen in languere.</l>
+               </lg>
+               <lg>
+                  <l>Tu in luctu mea lyra,</l>
+                  <l>Tu lenimen es in ira.</l>
+               </lg>
+               <lg>
+                  <l>Tu in arcto liberator,</l>
+                  <l>Tu in lapſu releuator.</l>
+               </lg>
+               <lg>
+                  <l>Mecum perstas in labore,</l>
+                  <l>Spem conſeruas in dolore.</l>
+               </lg>
+               <lg>
+                  <l>Si quis laedit tu rependis,</l>
+                  <l>Si minatur tu defendis.</l>
+               </lg>
+               <lg>
+                  <pb n="33" facs="tcp:19148:25"/>
+                  <l>Quod eſt anceps tu diſſoluis,</l>
+                  <l>Quod tegendum tu inuoluis.</l>
+               </lg>
+               <lg>
+                  <l>Tu intrare me non ſinas,</l>
+                  <l>Infernales officinas.</l>
+               </lg>
+               <lg>
+                  <l>Vbi maeror, vbi metus,</l>
+                  <l>vbi faetor, vbi fletus.</l>
+               </lg>
+               <lg>
+                  <l>Vbi probra deteguntur,</l>
+                  <l>Vbi rei confunduntur:</l>
+               </lg>
+               <lg>
+                  <l>Vbi tortor ſemper caedens:</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>bi vermis ſemper edens:</l>
+               </lg>
+               <lg>
+                  <l>Vbi totum hoe perenne,</l>
+                  <l>Procul ſit haec mors gehennae.</l>
+               </lg>
+               <lg>
+                  <pb n="35" facs="tcp:19148:26"/>
+                  <l>Me reccptet Syon illa,</l>
+                  <l>Syon <hi>Dauid</hi> vrbs tranquilla.</l>
+               </lg>
+               <lg>
+                  <l>Cuius faber Auctor lucis,</l>
+                  <l>Cuius portae, lignum Crucis:</l>
+               </lg>
+               <lg>
+                  <l>Cuius claues lingua Ieſu,</l>
+                  <l>Cuius ciues ſine metu:</l>
+               </lg>
+               <lg>
+                  <l>Cuius muri lapis viuus</l>
+                  <l>Cuius custos rex feſtiuus:</l>
+               </lg>
+               <lg>
+                  <l>In hac vrbe lux ſolemnis:</l>
+                  <l>Ver aeternum, pax perennis:</l>
+               </lg>
+               <lg>
+                  <l>In hac odor implens Caelos,</l>
+                  <l>In hac ſemper dulce melos:</l>
+               </lg>
+               <lg>
+                  <pb n="37" facs="tcp:19148:27"/>
+                  <l>Non eſt ibi corruptela,</l>
+                  <l>Non defectus, non quaerela<g ref="char:punc">▪</g>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Non minuti, non deformes,</l>
+                  <l>Omnes Chriſto ſunt conformes.</l>
+               </lg>
+               <lg>
+                  <l>Vrbs caeleſtis, vrbs beata,</l>
+                  <l>Supra petram collocata:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <g ref="char:V">Ʋ</g>rbs in portu ſatis tuto.</l>
+                  <l>De longinquo te ſaluto:</l>
+               </lg>
+               <lg>
+                  <l>Te ſaluto, te ſuſpiro,</l>
+                  <l>Te affecto, te requiro,</l>
+               </lg>
+               <lg>
+                  <l>Quantum tui gratulentur?</l>
+                  <l>Quam feſtiue conuiuentur?</l>
+               </lg>
+               <lg>
+                  <pb n="39" facs="tcp:19148:28"/>
+                  <l>Quis affectus eos ſtringat?</l>
+                  <l>Aut quae gemam muros pingat?</l>
+               </lg>
+               <lg>
+                  <l>Quis chalcedon, quis Iacincthus?</l>
+                  <l>Norunt illi qui ſunt intus,</l>
+               </lg>
+               <lg>
+                  <l>In plateis huius vrbis,</l>
+                  <l>Sociatus pijs turbis.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cum</hi> Iob, Moſes, <hi>&amp;</hi> Elia,</l>
+                  <l>
+                     <hi>Pium cantem alleluiah.</hi>
+                  </l>
+               </lg>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <pb n="41" facs="tcp:19148:29"/>
+               <head>Meditatio pijſſima, de hominis miſeria, et Dei miſerecordia, vna cum deuota precatione.</head>
+               <lg>
+                  <l>Vt Iucundas,</l>
+                  <l>Ceruus vndas,</l>
+                  <l>Eſtuans deſiderat:</l>
+                  <l>Sic ad Deum,</l>
+                  <l>Fontem verum,</l>
+                  <l>Mens fidelis properat,</l>
+               </lg>
+               <lg>
+                  <l>Sicut ciui,</l>
+                  <l>Fortis viui</l>
+                  <l>Prebent refrigerium:</l>
+                  <l>Ita menti,</l>
+                  <l>Sitienti</l>
+                  <l>Deus eſt remedium.</l>
+               </lg>
+               <lg>
+                  <pb n="43" facs="tcp:19148:30"/>
+                  <l>Quantis bonis,</l>
+                  <l>ſuper bonis,</l>
+                  <l>eruos tuos domine:</l>
+                  <l>ſeſe laedit,</l>
+                  <l>qui recedit</l>
+                  <l>A ſuperno lumine.</l>
+               </lg>
+               <lg>
+                  <l>Vitam laetam</l>
+                  <l>&amp; quietam,</l>
+                  <l>Qui te quaerit reperit,</l>
+                  <l>ſed laborem</l>
+                  <l>&amp; dolorem,</l>
+                  <l>Metit qui te deſerit.</l>
+               </lg>
+               <lg>
+                  <l>Pacem donas,</l>
+                  <l>&amp; coronas,</l>
+                  <l>His qui tecum militant:</l>
+                  <l>Cunctalaeta</l>
+                  <l>ſine meta,</l>
+                  <l>His qui tecum habitant.</l>
+               </lg>
+               <lg>
+                  <pb n="45" facs="tcp:19148:31"/>
+                  <l>Heu quam vana</l>
+                  <l>Mens humana,</l>
+                  <l>Luſione falleris?</l>
+                  <l>Cum te curis,</l>
+                  <l>Nocituris,</l>
+                  <l>Imprudenter ingeris.</l>
+               </lg>
+               <lg>
+                  <l>Cur non caues,</l>
+                  <l>Lapſus graues,</l>
+                  <l>Quos perſuadet proditor?</l>
+                  <l>Nec affectas</l>
+                  <l>Vias rectas,</l>
+                  <l>Quas oſtendit conditor.</l>
+               </lg>
+               <lg>
+                  <l>Reſipiſcas at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> diſcas</l>
+                  <l>Cuius ſis originis:</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>bi degis, cuius legis,</l>
+                  <l>Cuius ſis &amp; ordinis,</l>
+               </lg>
+               <lg>
+                  <pb n="47" facs="tcp:19148:32"/>
+                  <l>Ne te ſpenes,</l>
+                  <l>Sed diſcernes</l>
+                  <l>Ho mo gemma regia:</l>
+                  <l>Te perpende</l>
+                  <l>&amp; attende</l>
+                  <l>Qua ſis factus gratia.</l>
+               </lg>
+               <lg>
+                  <l>Recordare,</l>
+                  <l>Quis, &amp; quare</l>
+                  <l>Sis a deo conditus:</l>
+                  <l>Cuius haeres.</l>
+                  <l>Nunc maneres.</l>
+                  <l>Si fuiſſes ſubditus.</l>
+               </lg>
+               <lg>
+                  <l>O Mortalis,</l>
+                  <l>Quantis malis</l>
+                  <l>Meruiſti affici</l>
+                  <l>Cum Auctori,</l>
+                  <l>&amp; doctori</l>
+                  <l>Noluiſti ſubijci.</l>
+               </lg>
+               <lg>
+                  <pb n="49" facs="tcp:19148:33"/>
+                  <l>Sed maiores</l>
+                  <l>Sunt dolores,</l>
+                  <l>Infernalis carceris</l>
+                  <l>Quo mittendus</l>
+                  <l>Et torquendus,</l>
+                  <l>Es, ſi male vixeris.</l>
+               </lg>
+               <lg>
+                  <l>Cui mundus,</l>
+                  <l>Eſt iucundus,</l>
+                  <l>Suam perdit animam:</l>
+                  <l>Prore leui,</l>
+                  <l>At<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> breui,</l>
+                  <l>Vitam perdit optima<g ref="char:cmbAbbrStroke">̄</g>.</l>
+               </lg>
+               <lg>
+                  <l>Ergo caue,</l>
+                  <l>Ne tam ſuaue</l>
+                  <l>Iugu<g ref="char:cmbAbbrStroke">̄</g> ſpernens domini:</l>
+                  <l>Et abiecta</l>
+                  <l>Legerecta,</l>
+                  <l>Seruias libidini.</l>
+               </lg>
+               <lg>
+                  <pb n="15" facs="tcp:19148:34"/>
+                  <l>Si ſint plagae,</l>
+                  <l>Curam age</l>
+                  <l>Vt curentur citius:</l>
+                  <l>Ne ſecreſcant</l>
+                  <l>Et putreſcant,</l>
+                  <l>Pergas in deterius.</l>
+               </lg>
+               <lg>
+                  <l>Ne deſperes,</l>
+                  <l>Nam cohaeres,</l>
+                  <l>Chriſti eſſe poteris:</l>
+                  <l>Si carnales,</l>
+                  <l>Quantum vales,</l>
+                  <l>Affectus excluſeris.</l>
+               </lg>
+               <lg>
+                  <l>Si formidas,</l>
+                  <l>Ne diffidas,</l>
+                  <l>Sed medelam poſtula:</l>
+                  <l>Noxam plange,</l>
+                  <l>Corpus ange,</l>
+                  <l>Dilue piacula.</l>
+               </lg>
+               <lg>
+                  <pb n="53" facs="tcp:19148:35"/>
+                  <l>Siviuorum,</l>
+                  <l>Et funclorum,</l>
+                  <l>Chriſtum times Iudicem:</l>
+                  <l>Debes ſcire,</l>
+                  <l>Quod perire,</l>
+                  <l>Non vult ſuum ſupplicem.</l>
+               </lg>
+               <lg>
+                  <l>Preces funde,</l>
+                  <l>pectus tunde,</l>
+                  <l>Flendo cor humilia:</l>
+                  <l>Penitenti,</l>
+                  <l>Et gementi.</l>
+                  <l>Non negatur venia.</l>
+               </lg>
+               <lg>
+                  <l>Exorando,</l>
+                  <l>Et laudando,</l>
+                  <l>Ieſum Chriſtum memora:</l>
+                  <l>Nam delere</l>
+                  <l>Poteſt vere,</l>
+                  <l>Quaecun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> facinora.</l>
+               </lg>
+               <lg>
+                  <pb n="55" facs="tcp:19148:36"/>
+                  <l>Et ſi quando,</l>
+                  <l>Te temptando</l>
+                  <l>Durus ſerpens laeſerit:</l>
+                  <l>Suſpiranti,</l>
+                  <l>Et oranti,</l>
+                  <l>Ieſus Christus aderit:</l>
+               </lg>
+               <lg>
+                  <l>Quod ſi forte</l>
+                  <l>Mortis portae,</l>
+                  <l>Te vicinum ſenſeris,</l>
+                  <l>Crede tamen,</l>
+                  <l>Quod iuuamen,</l>
+                  <l>Per eum receperis,</l>
+               </lg>
+               <lg>
+                  <l>Hunc require</l>
+                  <l>Qui lenire</l>
+                  <l>Solet corda triſtium:</l>
+                  <l>Certus eſto</l>
+                  <l>Quod est preſto,</l>
+                  <l>Votis ſe precantium.</l>
+               </lg>
+               <lg>
+                  <pb n="57" facs="tcp:19148:37"/>
+                  <l>Ipſe multos,</l>
+                  <l>iam ſepultos</l>
+                  <l>Fecit reuiuiſcere;</l>
+                  <l>Hic auerſos,</l>
+                  <l>Et ſubuerſos</l>
+                  <l>Potest Deo iungere,</l>
+               </lg>
+               <lg>
+                  <l>Ipſum ama,</l>
+                  <l>Ad hunc clama,</l>
+                  <l>Mentem tuam eleuae</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t ſuſtentet,</l>
+                  <l>Et preſentet.</l>
+                  <l>Te ad caeli gaudia.</l>
+               </lg>
+               <lg>
+                  <l>Ipſum Cole</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t de mole</l>
+                  <l>Criminum te liberet:</l>
+                  <l>Hunc appella</l>
+                  <l>Ne procella</l>
+                  <l>Vitiorum ſuperet.</l>
+               </lg>
+               <lg>
+                  <pb n="59" facs="tcp:19148:38"/>
+                  <l>Ipſum poſco,</l>
+                  <l>Quem cognoſco,</l>
+                  <l>Poſſe prorſus omnia:</l>
+                  <l>Vt euellat,</l>
+                  <l>Et repellat,</l>
+                  <l>Cuncta quae ſunt noxia.</l>
+               </lg>
+               <lg>
+                  <l>Ipſe donet,</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t quod monet</l>
+                  <l>Eius verbum faciam:</l>
+                  <l>
+                     <g ref="char:V">Ʋ</g>t finita,</l>
+                  <l>Carnis vita,</l>
+                  <l>Laetus hunc aſpiciam:</l>
+               </lg>
+               <lg>
+                  <l>Pater Deus,</l>
+                  <l>Fili Deus,</l>
+                  <l>Deus alma charitas,</l>
+                  <l>Per eterna,</l>
+                  <l>Nos guberna,</l>
+                  <l>Secla, Deus Trinitas.</l>
+               </lg>
+            </div>
+         </div>
+         <div xml:lang="eng" type="payers">
+            <pb facs="tcp:19148:9"/>
+            <div type="prayer">
+               <head>An Orthodoxall Confeſsion of God the Father.</head>
+               <lg>
+                  <l>FIrſt and laſt one God diuine,</l>
+                  <l>All mens God as well as mine.</l>
+               </lg>
+               <lg>
+                  <l>In thy vertue all things framing,</l>
+                  <l>In thy knowledge all containing.</l>
+               </lg>
+               <lg>
+                  <l>In thine eſſence chiefeſt good,</l>
+                  <l>Working all what e're is good.</l>
+               </lg>
+               <lg>
+                  <l>All ſupporting, all excelling,</l>
+                  <l>Without all, yet in all dwelling.</l>
+               </lg>
+               <lg>
+                  <l>All ſupporting vndeiected,</l>
+                  <l>All excelling vnaffected.</l>
+               </lg>
+               <lg>
+                  <pb n="4" facs="tcp:19148:10"/>
+                  <l>Without all, yet not excluded,</l>
+                  <l>In all, neuer yet included.</l>
+               </lg>
+               <lg>
+                  <l>Ouer all in Domination,</l>
+                  <l>Vnder all in ſuſtentation.</l>
+               </lg>
+               <lg>
+                  <l>Comprehending all without thee,</l>
+                  <l>Filling all things round about thee.</l>
+               </lg>
+               <lg>
+                  <l>Nothing vnder thee can raiſe thee,</l>
+                  <l>Nought aboue thee can debaſe thee.</l>
+               </lg>
+               <lg>
+                  <l>Nought without giues thee dimenſion,</l>
+                  <l>Nought within giues thee extenſion.</l>
+               </lg>
+               <lg>
+                  <l>Mouing all, thy ſelfe abiding,</l>
+                  <l>Placed without circumſcribing.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:19148:11"/>
+                  <l>Changing time, thy ſelfe moſt ſtable,</l>
+                  <l>Varying all, Inuariable.</l>
+               </lg>
+               <lg>
+                  <l>Force, neceſſity, nor art,</l>
+                  <l>Alter thee in any part.</l>
+               </lg>
+               <lg>
+                  <l>Time paſt, preſent, and to come,</l>
+                  <l>Are one with thee, both all and ſome.</l>
+               </lg>
+               <lg>
+                  <l>All the glory now thou haſt.</l>
+                  <l>Vndiminiſht aye muſt laſt.</l>
+               </lg>
+               <lg>
+                  <l>Onely thou art all foreſeeing,</l>
+                  <l>Onely giuing all their being.</l>
+               </lg>
+               <lg>
+                  <l>As thy wiſedome did foreſhow,</l>
+                  <l>Thou framd'ſt the elements below.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="8" facs="tcp:19148:12"/>
+               <head>A holy and orthodoxall Confeſ<g ref="char:EOLhyphen"/>ſion of God the Son, Ieſus Chriſt the Sauiour of Mankind.</head>
+               <lg>
+                  <l>SOnne, thy Fathers peere in all,</l>
+                  <l>with him Conſubſtantiall.</l>
+               </lg>
+               <lg>
+                  <l>His figure and his ſplendor pure,</l>
+                  <l>Creator, made a creature.</l>
+               </lg>
+               <lg>
+                  <l>Thou our humane fleſh putſt on,</l>
+                  <l>Thou our cauſe haſt vndergon.</l>
+               </lg>
+               <lg>
+                  <l>Temporall, yet time defying,</l>
+                  <l>Euer liuing, yet once dying.</l>
+               </lg>
+               <lg>
+                  <l>God and man without illuſion,</l>
+                  <l>Both in one without confuſion.</l>
+               </lg>
+               <lg>
+                  <pb n="10" facs="tcp:19148:13"/>
+                  <l>Thy Fathers like in Deity,</l>
+                  <l>But not in fleſhlie verity.</l>
+               </lg>
+               <lg>
+                  <l>God humanity aſſuming,</l>
+                  <l>The ſame preſeruing, not conſuming</l>
+               </lg>
+               <lg>
+                  <l>The Godhead in this vnion yet,</l>
+                  <l>Of his Godhead loſt no whit.</l>
+               </lg>
+               <lg>
+                  <l>God to God, and not to'th other<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Was Father, but <hi>Mary</hi> to both was mo<g ref="char:EOLhyphen"/>ther</l>
+               </lg>
+               <lg>
+                  <l>Thus both natures kept their ſtation,</l>
+                  <l>In this wonderous Combination.</l>
+               </lg>
+               <lg>
+                  <l>Preſeruing in the Eſſence true</l>
+                  <l>What was, and thence producing new.</l>
+               </lg>
+               <lg>
+                  <pb n="12" facs="tcp:19148:14"/>
+                  <l>This our Mediator is,</l>
+                  <l>Our leader to the land of bliſſe.</l>
+               </lg>
+               <lg>
+                  <l>Circumciſ'd babtiſ'd by <hi>Iohn,</hi>
+                  </l>
+                  <l>Suffered, buried, and vpon,</l>
+               </lg>
+               <lg>
+                  <l>The third day: whence he had deſcended,</l>
+                  <l>He roſe, and ſo to heauen aſcended.</l>
+               </lg>
+               <lg>
+                  <l>Whence he ſhall come, when time doth cal</l>
+                  <l>(Tho Iudg'd himſelfe) to iudge vs all.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="14" facs="tcp:19148:15"/>
+               <head>Of Chriſt againe.</head>
+               <lg>
+                  <l>HE whom Gods power for mankind would haue borne,</l>
+                  <l>whom borne his miracles proclaimed haue,</l>
+                  <l>Who thus proclaim'd vpon a croſſe was torne,</l>
+                  <l>To whom thus torne, the godly buriall gaue:</l>
+               </lg>
+               <lg>
+                  <l>This borne, proclaimed, torne Entombed King,</l>
+                  <l>God power againe, to heauenly bliſſe did bring:</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="16" facs="tcp:19148:16"/>
+               <head>A true and orthodoxall Confeſsion of the holy Ghoſt.</head>
+               <lg>
+                  <l>SPirit vncreated euer,</l>
+                  <l>Neuer made, begotten neuer.</l>
+               </lg>
+               <lg>
+                  <l>From the perſons two proceeding,</l>
+                  <l>Full their equall, not exceeding.</l>
+               </lg>
+               <lg>
+                  <l>Not preferring them in Deity,</l>
+                  <l>Nor ſeuerall from them in quality.</l>
+               </lg>
+               <lg>
+                  <l>In quantity all three combine,</l>
+                  <l>In quality alike Diuine.</l>
+               </lg>
+               <lg>
+                  <l>With the Father and the Sunne,</l>
+                  <l>Neuer ending nor begun.</l>
+               </lg>
+               <lg>
+                  <pb n="18" facs="tcp:19148:17"/>
+                  <l>One is Father, for he begot,</l>
+                  <l>The Sonne one borne, all men wot</l>
+               </lg>
+               <lg>
+                  <l>From theſe the ſpirit proceeds alone,</l>
+                  <l>Thus one is three, and three are one.</l>
+               </lg>
+               <lg>
+                  <l>Each of theſe is God truly,</l>
+                  <l>Yet ſtill but one, and not Gods three</l>
+               </lg>
+               <lg>
+                  <l>But in this Deity, I aſſeuer,</l>
+                  <l>A Trinity vnited euer.</l>
+               </lg>
+               <lg>
+                  <l>In the ſubſtance is full vnity,</l>
+                  <l>In the perſons perfect Trinity:</l>
+               </lg>
+               <lg>
+                  <l>But, in theſe that I haue reckoned,</l>
+                  <l>None in power is firſt or ſecond.</l>
+               </lg>
+               <lg>
+                  <pb n="20" facs="tcp:19148:18"/>
+                  <l>But allas one we muſt adore,</l>
+                  <l>Fixed and firme for euermore.</l>
+               </lg>
+               <lg>
+                  <l>Nor in ſelfe for euer changed,</l>
+                  <l>Nor from it ſelfe at all eſtranged.</l>
+               </lg>
+            </div>
+            <div type="prayer">
+               <pb n="22" facs="tcp:19148:19"/>
+               <head>The concluſion with a deuour and holy prayer.</head>
+               <lg>
+                  <l>THis is Chriſtian faith vnfained,</l>
+                  <l>Orthodoxall, true, vnſtained:</l>
+               </lg>
+               <lg>
+                  <l>As I teach all vnderſtand;</l>
+                  <l>Yeelding vnto neither hand.</l>
+               </lg>
+               <lg>
+                  <l>And in this my ſoules defence,</l>
+                  <l>Reiect me not for mine offence:</l>
+               </lg>
+               <lg>
+                  <l>Though deaths ſlaue, yet deſperation</l>
+                  <l>I fly, in death, to ſeeke ſaluation</l>
+               </lg>
+               <lg>
+                  <l>I haue no meane, thy loue to gaine,</l>
+                  <l>But this faith which I maintaine</l>
+               </lg>
+               <lg>
+                  <pb n="24" facs="tcp:19148:20"/>
+                  <l>This thou ſeeſt, nor will I ceaſe,</l>
+                  <l>By this to beg for a releaſe.</l>
+               </lg>
+               <lg>
+                  <l>Let this ſacred ſalue be bound,</l>
+                  <l>Vppon my ſores to make them ſound.</l>
+               </lg>
+               <lg>
+                  <l>Though man be carried forth, and lying</l>
+                  <l>In his graue, and putrifying:</l>
+               </lg>
+               <lg>
+                  <l>Bound and hid from mortall eyes,</l>
+                  <l>Yet if thou bid, he muſt ariſe:</l>
+               </lg>
+               <lg>
+                  <l>At thy will the graue will open</l>
+                  <l>At thy will his bounds are broken.</l>
+               </lg>
+               <lg>
+                  <l>And forth he comes, without delay;</l>
+                  <l>If thou but once bid come away:</l>
+               </lg>
+               <lg>
+                  <pb n="26" facs="tcp:19148:21"/>
+                  <l>In this ſea of dread and doubt,</l>
+                  <l>My poore barke is toſt about;</l>
+               </lg>
+               <lg>
+                  <l>With ſtormes and pirates farre and wide,</l>
+                  <l>Death and woes on euery ſide.</l>
+               </lg>
+               <lg>
+                  <l>Come thou ſteereſman euer bleſt,</l>
+                  <l>Calme theſe winds, that me moleſt:</l>
+               </lg>
+               <lg>
+                  <l>Chaſe theſe ruthleſſe Pyrates hence,</l>
+                  <l>And ſhew me ſome ſafe reſidence.</l>
+               </lg>
+               <lg>
+                  <l>My tree is fruitleſſe, dry and dead,</l>
+                  <l>All the bowes are withered.</l>
+               </lg>
+               <lg>
+                  <l>Downe it muſt, and to the fire</l>
+                  <l>If deſert haue his due hire.</l>
+               </lg>
+               <lg>
+                  <pb n="28" facs="tcp:19148:22"/>
+                  <l>But ſpare it (Lord) another yeare,</l>
+                  <l>With manuring it may beare.</l>
+               </lg>
+               <lg>
+                  <l>If it then, be dead and dry,</l>
+                  <l>Burne it, alas, what remedy.</l>
+               </lg>
+               <lg>
+                  <l>Mine old foe aſſaults me ſore,</l>
+                  <l>With fire and water, more and more.</l>
+               </lg>
+               <lg>
+                  <l>Poore I, of all my ſtrength bereft,</l>
+                  <l>Onely vnto thee am left.</l>
+               </lg>
+               <lg>
+                  <l>That my foe may hence be chaſed,</l>
+                  <l>And I from ruines clawes releaſed.</l>
+               </lg>
+               <lg>
+                  <l>Lord vouchſafe me euery day,</l>
+                  <l>Strength to faſt, and faith to pray.</l>
+               </lg>
+               <lg>
+                  <pb n="30" facs="tcp:19148:23"/>
+                  <l>Theſe two meanes thy ſelfe haſt taught,</l>
+                  <l>To bring temptations force to nought.</l>
+               </lg>
+               <lg>
+                  <l>Lord free my ſoule from ſinnes infection,</l>
+                  <l>By repentances direction.</l>
+               </lg>
+               <lg>
+                  <l>Be thy feare in me abiding</l>
+                  <l>My ſoule to true ſaluation guiding</l>
+               </lg>
+               <lg>
+                  <l>Grant me faith (Lord) hope and loue</l>
+                  <l>Zeale of heauen and things aboue</l>
+               </lg>
+               <lg>
+                  <l>Tcach me prize the world at nought,</l>
+                  <l>On thy bliſſe be all my thought.</l>
+               </lg>
+               <lg>
+                  <l>All my hopes on thee I found,</l>
+                  <l>In whom all good things abound.</l>
+               </lg>
+               <lg>
+                  <pb n="32" facs="tcp:19148:24"/>
+                  <l>Thou art all my dignity,</l>
+                  <l>All I haue I haue from thee.</l>
+               </lg>
+               <lg>
+                  <l>Thou art my comfort in diſtreſſe,</l>
+                  <l>Thou art my cure, in heauineſſe</l>
+               </lg>
+               <lg>
+                  <l>Thou art my muſicke in my ſadneſſe,</l>
+                  <l>Thou art my medicine in my madneſſe</l>
+               </lg>
+               <lg>
+                  <l>Thou my freedome from my thrall,</l>
+                  <l>Thou my rayſer from my fall.</l>
+               </lg>
+               <lg>
+                  <l>In my labour thou releiues me,</l>
+                  <l>Thou reformes what euer grieues me.</l>
+               </lg>
+               <lg>
+                  <l>All my wrongs thy hand reuengeth,</l>
+                  <l>And from hurt my ſoule defendeth</l>
+               </lg>
+               <lg>
+                  <pb n="34" facs="tcp:19148:25"/>
+                  <l>Thou my deepeſt doubts reuealeſt,</l>
+                  <l>Thou my ſecret faults concealeſt.</l>
+               </lg>
+               <lg>
+                  <l>Oh doe thou ſtay my feete from treading</l>
+                  <l>In paths to hell and horror leading:</l>
+               </lg>
+               <lg>
+                  <l>Where eternall torment dwels,</l>
+                  <l>With feares, &amp; teares &amp; loathſome ſmels.</l>
+               </lg>
+               <lg>
+                  <l>Where mans deepeſt ſhame is ſounded,</l>
+                  <l>And the guilty ſtill confounded.</l>
+               </lg>
+               <lg>
+                  <l>Where the ſcourge for euer beateth,</l>
+                  <l>And the worme that alwaies eateth.</l>
+               </lg>
+               <lg>
+                  <l>Where all thoſe endleſſe do remaine,</l>
+                  <l>Lord preſerue vs from this paine.</l>
+               </lg>
+               <lg>
+                  <pb n="36" facs="tcp:19148:26"/>
+                  <l>In Syon lodge me (Lord) for pitty</l>
+                  <l>Syon <hi>Dauids</hi> kingly Cittie.</l>
+               </lg>
+               <lg>
+                  <l>Built by him that's only good,</l>
+                  <l>Whoſe gates are of the croſſes wood.</l>
+               </lg>
+               <lg>
+                  <l>Whoſe keies are Chriſts vndoubted word,</l>
+                  <l>Whoſe dwellers feare none but the Lord.</l>
+               </lg>
+               <lg>
+                  <l>Whoſe wals are ſtone, ſtrong, quicke and bright,</l>
+                  <l>Whoſe keeper is the Lord of light.</l>
+               </lg>
+               <lg>
+                  <l>Here the light doth neuer ceaſe</l>
+                  <l>Endleſſe ſpring and endleſſe peace</l>
+               </lg>
+               <lg>
+                  <l>Here is muſicke, heauen filling,</l>
+                  <l>Swetneſſe euermore diſtilling.</l>
+               </lg>
+               <lg>
+                  <pb n="38" facs="tcp:19148:27"/>
+                  <l>Here is neither ſpot nor taint,</l>
+                  <l>No defect, nor no complaint.</l>
+               </lg>
+               <lg>
+                  <l>No man crooked, great nor ſmall,</l>
+                  <l>But to Chriſt conformed all.</l>
+               </lg>
+               <lg>
+                  <l>Bleſſed towne, diuinely graced,</l>
+                  <l>On a rocke ſo ſtrongly placed.</l>
+               </lg>
+               <lg>
+                  <l>Seated ſure from feare of warre:</l>
+                  <l>I ſalute thy wals from farre.</l>
+               </lg>
+               <lg>
+                  <l>Thee I ſee, and thee I long for,</l>
+                  <l>Thee I ſeeke, and thee I groane for.</l>
+               </lg>
+               <lg>
+                  <l>O what ioy thy dwellers taſt,</l>
+                  <l>All in pleaſures firſt and laſt?</l>
+               </lg>
+               <lg>
+                  <pb n="40" facs="tcp:19148:28"/>
+                  <l>What full enioying bliſſe Diuine?</l>
+                  <l>What Iewels on thy wals do ſhine?</l>
+               </lg>
+               <lg>
+                  <l>Rubie, Iacincth, Chalcedon,</l>
+                  <l>Knowne to them within alone.</l>
+               </lg>
+               <lg>
+                  <l>In this glorious Company</l>
+                  <l>In the ſtreetes of Syon, I</l>
+               </lg>
+               <lg>
+                  <l>With <hi>Iob, Moſes,</hi> and <hi>Eliah,</hi>
+                  </l>
+                  <l>Will ſing the heauenly Alleluiah</l>
+               </lg>
+               <closer>Amen.</closer>
+            </div>
+            <div type="prayer">
+               <pb n="42" facs="tcp:19148:29"/>
+               <head>A holy meditation of mans mi ſery, and Gods mercy, together with a deuout prayer.</head>
+               <lg>
+                  <l>VVIth longing cheere,</l>
+                  <l>The thirſty Deere.</l>
+                  <l>do ſeeke the brooke:</l>
+                  <l>In ſuch a kind,</l>
+                  <l>The faithful minde,</l>
+                  <l>For God doth looke.</l>
+               </lg>
+               <lg>
+                  <l>And as the ſprings,</l>
+                  <l>Refreſhment brings,</l>
+                  <l>in drought and ſweat,</l>
+                  <l>So God doth coole,</l>
+                  <l>The thirſty ſoule</l>
+                  <l>in all her heate.</l>
+               </lg>
+               <lg>
+                  <pb n="44" facs="tcp:19148:30"/>
+                  <l>O Lord what floods</l>
+                  <l>of glorious goods,</l>
+                  <l>doſt thou beſtow,</l>
+                  <l>On thoſe that be</l>
+                  <l>thine, bleſt is he</l>
+                  <l>that well doth know</l>
+               </lg>
+               <lg>
+                  <l>Eternall bliſſe,</l>
+                  <l>His guerdon is</l>
+                  <l>that Ieſus maketh</l>
+                  <l>His reſt, but he</l>
+                  <l>Reapes myſery</l>
+                  <l>that him forſaketh.</l>
+               </lg>
+               <lg>
+                  <l>Thou makeſt them glorious</l>
+                  <l>And victorious,</l>
+                  <l>Who ſerue thee well</l>
+                  <l>In endleſſe ioy</l>
+                  <l>From all annoy</l>
+                  <l>with thee they dwell.</l>
+               </lg>
+               <lg>
+                  <pb n="44" facs="tcp:19148:31"/>
+                  <l>But oh Humanity,</l>
+                  <l>With how great vanity,</l>
+                  <l>art thou betoſt?</l>
+                  <l>To dote in care,</l>
+                  <l>On things that are,</l>
+                  <l>ſo quickly loſt?</l>
+               </lg>
+               <lg>
+                  <l>Why doſt thou yeeld,</l>
+                  <l>And leaue the field,</l>
+                  <l>to ſinnes inuaſions?</l>
+                  <l>Not well reſpecting,</l>
+                  <l>But ill reiecting,</l>
+                  <l>thy Gods perſwaſions?</l>
+               </lg>
+               <lg>
+                  <l>Open thine eies,</l>
+                  <l>And well aduiſe,</l>
+                  <l>of whence thou art:</l>
+                  <l>Thy life, thy birth,</l>
+                  <l>Thy ſtate, thy worth,</l>
+                  <l>obſerue each part.</l>
+               </lg>
+               <lg>
+                  <pb n="48" facs="tcp:19148:32"/>
+                  <l>From careleſneſſe</l>
+                  <l>Thy ſelfe ſtill bleſſe,</l>
+                  <l>O man Gods Iewell:</l>
+                  <l>How he placed thee,</l>
+                  <l>And graced thee</l>
+                  <l>obſerue and view well.</l>
+               </lg>
+               <lg>
+                  <l>To what intent,</l>
+                  <l>Hath God thee ſent,</l>
+                  <l>obſerue with care:</l>
+                  <l>To whom (but pride</l>
+                  <l>Drew thee aſide)</l>
+                  <l>thou hadſt bene heyre.</l>
+               </lg>
+               <lg>
+                  <l>O mortall ſonne,</l>
+                  <l>Affliction</l>
+                  <l>is thy due hire:</l>
+                  <l>That broke the band</l>
+                  <l>Of Gods commande,</l>
+                  <l>through vaine deſire.</l>
+               </lg>
+               <lg>
+                  <pb n="50" facs="tcp:19148:33"/>
+                  <l>But oh take heed,</l>
+                  <l>Thoſe paines exceed,</l>
+                  <l>that rule in hell:</l>
+                  <l>Whoſe fire ſo cruell,</l>
+                  <l>Hath thoſe for fuell,</l>
+                  <l>that liue not well.</l>
+               </lg>
+               <lg>
+                  <l>The man that ioyes</l>
+                  <l>In worldly toyes,</l>
+                  <l>his ſoule orethrowes:</l>
+                  <l>Reſpecting nought,</l>
+                  <l>What Chriſt hath bought</l>
+                  <l>full deere God knowes.</l>
+               </lg>
+               <lg>
+                  <l>Then neuer grudge,</l>
+                  <l>If God thee iudge,</l>
+                  <l>his yoke to beare:</l>
+                  <l>Let not luſt draw,</l>
+                  <l>Thee from his law,</l>
+                  <l>But hold it deere.</l>
+               </lg>
+               <lg>
+                  <pb n="51" facs="tcp:19148:34"/>
+                  <l>And ſoone apply</l>
+                  <l>His remedy,</l>
+                  <l>vnto thy ſore:</l>
+                  <l>Leaſt it increaſe,</l>
+                  <l>To worſe diſeaſe,</l>
+                  <l>and plague thee more.</l>
+               </lg>
+               <lg>
+                  <l>Doe not diſpaire,</l>
+                  <l>Thou maiſt be heire,</l>
+                  <l>with Chriſt in ioy:</l>
+                  <l>By caſting out,</l>
+                  <l>Corruptions roote,</l>
+                  <l>thy ſoules annoy.</l>
+               </lg>
+               <lg>
+                  <l>Still feare thou muſt,</l>
+                  <l>But not diſtruſt,</l>
+                  <l>and beg thy cure:</l>
+                  <l>For errours weepe,</l>
+                  <l>Thy body keepe</l>
+                  <l>lowly and pure:</l>
+               </lg>
+               <lg>
+                  <pb n="54" facs="tcp:19148:35"/>
+                  <l>If to thy feare,</l>
+                  <l>Thy iudge appeare</l>
+                  <l>with angry face:</l>
+                  <l>Know he will looſe,</l>
+                  <l>Not one of thoſe,</l>
+                  <l>that beg his grace.</l>
+               </lg>
+               <lg>
+                  <l>Pray without reſt,</l>
+                  <l>And knock thy breſt,</l>
+                  <l>humble thy minde:</l>
+                  <l>All that bewaile,</l>
+                  <l>Their errours fraile,</l>
+                  <l>haue pardon ſign'd.</l>
+               </lg>
+               <lg>
+                  <l>And do not ſpare,</l>
+                  <l>In hymme and prayer,</l>
+                  <l>Ieſus to praiſe:</l>
+                  <l>For mercy ſtill,</l>
+                  <l>Is at his will,</l>
+                  <l>at all aſſayes.</l>
+               </lg>
+               <lg>
+                  <pb n="56" facs="tcp:19148:36"/>
+                  <l>And when the diuell,</l>
+                  <l>The Prince of euill,</l>
+                  <l>attempteth thee,</l>
+                  <l>Then if thou pray</l>
+                  <l>Chriſt will not ſtay</l>
+                  <l>to ſet thee free.</l>
+               </lg>
+               <lg>
+                  <l>All be thou were,</l>
+                  <l>To death moſt neere,</l>
+                  <l>yet ſtill be ſure:</l>
+                  <l>And vnderſtand</l>
+                  <l>That his high hand,</l>
+                  <l>containes thy cure.</l>
+               </lg>
+               <lg>
+                  <l>Be he thy queſt,</l>
+                  <l>That giues all reſt,</l>
+                  <l>from reſtleſſe woes:</l>
+                  <l>Who ſo adore,</l>
+                  <l>And him implore,</l>
+                  <l>ſhall come to thoſe,</l>
+               </lg>
+               <lg>
+                  <pb n="58" facs="tcp:19148:37"/>
+                  <l>For many an one,</l>
+                  <l>Dead long agon,</l>
+                  <l>hath he reuiued:</l>
+                  <l>And ſaued more</l>
+                  <l>That were before</l>
+                  <l>of grace depriued,</l>
+               </lg>
+               <lg>
+                  <l>Be all thy loue,</l>
+                  <l>On God aboue,</l>
+                  <l>Lift vp thy ſpirit:</l>
+                  <l>That thou maiſt taſt</l>
+                  <l>The Saints repaſt,</l>
+                  <l>through his ſole merit.</l>
+               </lg>
+               <lg>
+                  <l>And honour him,</l>
+                  <l>That he from ſinne,</l>
+                  <l>may thee deliuer,</l>
+                  <l>That ſinnes increaſe</l>
+                  <l>In thee may ceaſe,</l>
+                  <l>in prayer perſeuer.</l>
+               </lg>
+               <lg>
+                  <pb n="60" facs="tcp:19148:38"/>
+                  <l>On him I call,</l>
+                  <l>That all in all</l>
+                  <l>hath in his power:</l>
+                  <l>Againſt all harme,</l>
+                  <l>Be he myne arme</l>
+                  <l>my ſhield my towre.</l>
+               </lg>
+               <lg>
+                  <l>And this liues length</l>
+                  <l>Vouchſafe vs ſtrength</l>
+                  <l>to keepe his heſt:</l>
+                  <l>That at our end</l>
+                  <l>Wee may aſcend,</l>
+                  <l>To endleſſe reſt.</l>
+               </lg>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div type="instructions">
+            <pb n="61" facs="tcp:19148:39"/>
+            <p>Here followeth the means and manner how our forefathers in the time of Po<g ref="char:EOLhyphen"/>pery prepared themſelues and others to dye, conſiſting firſt of the confeſſion of their faith, and ſecondly of the prayers which were made by them, &amp; for them in their laſt ſickneſſe, by which it may appeare that though they were miſled by the crafty Romiſh Clergy, in diuers er<g ref="char:EOLhyphen"/>rours and ſuperſtions, yet in the great point of the meanes of ſaluation, they were of our religion and were ſaued by it.</p>
+            <div xml:lang="lat" type="version">
+               <pb facs="tcp:19148:39"/>
+               <pb n="63" facs="tcp:19148:40"/>
+               <head>
+                  <seg rend="decorInit">I</seg>Nterrogationes quae fieri debent morituris dum ad<g ref="char:EOLhyphen"/>huc vſum rationis habent, &amp; loquendi, vt ſi quis minus diſpo<g ref="char:EOLhyphen"/>ſitus fuerit ad moriendum, de me<g ref="char:EOLhyphen"/>liori informetur at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> in eodem con<g ref="char:EOLhyphen"/>fortetur. Illae autem interrogationes debent fieri, fecundum <hi>Anſelmum Epiſcopum</hi> hoc modo,</head>
+               <p>
+                  <hi>Primos queratur ſic.</hi>
+               </p>
+               <p>
+                  <hi>Frater 1 laetaris quod in fide Chriſti morieris.</hi>
+               </p>
+               <p>
+                  <hi>Ille reſpondet, Etiam.</hi>
+               </p>
+               <p>
+                  <hi>Frater 2 penitet te non tam bene vixiſſe ſicut debuiſſes?</hi>
+               </p>
+               <p>
+                  <hi>Reſpondeat etiam.</hi>
+               </p>
+               <pb n="65" facs="tcp:19148:41"/>
+               <p>
+                  <hi>Frater, habes animum emendan<g ref="char:EOLhyphen"/>di ſi ſpatium viuendi haberes?</hi>
+               </p>
+               <p>
+                  <hi>Reſpon. Etiam.</hi>
+               </p>
+               <p>
+                  <hi>Frater credis te non poſſe niſi per Christi mortem ſaluari?</hi>
+               </p>
+               <p>
+                  <hi>Reſp. Etiam.</hi>
+               </p>
+               <p>
+                  <hi>Credis quod prote mortuus est Dominus Ieſus Christus fillius Dei?</hi>
+               </p>
+               <p>
+                  <hi>Reſp. Etiam,</hi>
+               </p>
+               <p>
+                  <hi>Agis ei gratias ex toto corde de hoc.</hi>
+               </p>
+               <p>
+                  <hi>Reſpo. Etiam.</hi>
+               </p>
+               <p>
+                  <hi>Age ergo ei (dum ſupereſt in te anima) ſemper gratias, &amp; in hac ſo<g ref="char:EOLhyphen"/>la morte, fiduciam tuam conſtitue: in nulla alia re fiduciam habe, huic mortite totum committe, hac ſola te totum contege: totum immiſce
+<pb n="67" facs="tcp:19148:42"/> te in hac morte, totum confige, in hac morte te totum inuolue.</hi>
+               </p>
+               <p>
+                  <hi>Et ſi dominus Deus voluerit tu iu<g ref="char:EOLhyphen"/>dicare, dic, Domine, mortem Do<g ref="char:EOLhyphen"/>mini mei Ieſu Christi obijcio inter me &amp; iudiciu<g ref="char:cmbAbbrStroke">̄</g> tuum aliter tecum non contendam.</hi>
+               </p>
+               <p>
+                  <hi>Et ſi tibi dixerit Deus, quia pec<g ref="char:EOLhyphen"/>cator es. dic, Domine mortem Domini mei Ieſu Chriſti pono inter te &amp; peccata mea: ſi dixerit tibi quod meruiſti damnationem, dic: Domine, mortem Domini mei Ieſu Chriſti obtendo inter te, &amp; mala merita mea, Ipſum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, &amp; digniſſimae, paſſionis meritum offero pro me<g ref="char:EOLhyphen"/>rito quod ego debuiſſem habere, &amp; (heu) hon habeo:</hi>
+               </p>
+               <p>
+                  <hi>Si dixerit deus quod tibi eſt iratus,
+<pb n="69" facs="tcp:19148:43"/> die, Domine mortem Domini mei Ieſu Chriſti pono inter me &amp; iram tuam.</hi>
+               </p>
+               <p>
+                  <hi>Deinde dicat ter, In manus tuas Domine commendo ſpiritum meum, et ſi id ipſum non potest loqui dicat conuentus vel aſtantes, In ma<g ref="char:EOLhyphen"/>nus tuas domine commendamus ſpi<g ref="char:EOLhyphen"/>ritum eius.</hi>
+               </p>
+               <p>
+                  <hi>Et ſecurus moritur, nec videbit mortem in eternum.</hi>
+               </p>
+               <div type="part">
+                  <head>Et in alio vetuſto <hi>codice.</hi>
+                  </head>
+                  <p>
+                     <hi>SEquntur ſigna ſex quibus homo poteſt confidere de ſalute.</hi>
+                  </p>
+                  <p n="1">1 <hi>Si credit ea quae ſunt Chriſti<g ref="char:EOLhyphen"/>anae fidei quantum ad omnia ab Ec<g ref="char:EOLhyphen"/>cleſia determinata.</hi>
+                  </p>
+                  <p n="2">
+                     <pb n="71" facs="tcp:19148:44"/>2 <hi>Si gaudet &amp; laetetur quod in fide Chriſti morietur.</hi>
+                  </p>
+                  <p n="3">3 <hi>Si cognoſcat ſe grauiter De<g ref="char:EOLhyphen"/>um offendiſſe.</hi>
+                  </p>
+                  <p n="4">4 <hi>Si dolet ſe tam grauiter De<g ref="char:EOLhyphen"/>um offendiſſe.</hi>
+                  </p>
+                  <p n="5">5 <hi>Si proponit a peccatis abſtine<g ref="char:EOLhyphen"/>re ſi vixerit.</hi>
+                  </p>
+                  <p n="6">6 <hi>Si credit &amp; ſperat venire ad ſalute<g ref="char:cmbAbbrStroke">̄</g> aeternam non proprijs meritis, ſed Ieſu Chriſti.</hi>
+                  </p>
+                  <p>
+                     <hi>Et dicit</hi> Anſelmus <hi>quod hae ſex queſtiones proponi debent homi<g ref="char:EOLhyphen"/>ni costituto in mortis articulo, &amp; addit.</hi>
+                  </p>
+                  <p>
+                     <hi>Deinde dicatur infirmo: ſi Sa<g ref="char:EOLhyphen"/>than tibi obijciat aliquid, opponas merita Chriſti inter te &amp; ipſu<g ref="char:cmbAbbrStroke">̄</g>, &amp; his peractis ſine dubio ſaluabitur.</hi>
+                  </p>
+                  <pb n="72" facs="tcp:19148:45"/>
+                  <p>Iſta conſolatio &amp; preparatio ad mortem, in vetuſtis codicibus aſcribitur <hi>Anſelmo,</hi> qui vixit ante annos 500, in ipſa adulta fere ae<g ref="char:EOLhyphen"/>tate Papiſmi. Si vero dubitaret quis, quomodo patres noſtri in hiſce poſterioribus, multo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> pe<g ref="char:EOLhyphen"/>ioribus temporibus ſalutem ae<g ref="char:EOLhyphen"/>terna<g ref="char:cmbAbbrStroke">̄</g> poſſent adipiſci, graſſante Papiſmo &amp; vigente poteſtate tenebrarum.</p>
+                  <p>Reſpondeo eandem fere pre<g ref="char:EOLhyphen"/>parationem, &amp; intterrogationes fuiſſe in vſu &amp; aeſtimatione, In denſiſſimis Papiſmi tenebris: peſſimo nimirum illo tempore Concilij <hi>Conſtantienſis</hi> ante an<g ref="char:EOLhyphen"/>nos nimirum 200. ſic enim repe<g ref="char:EOLhyphen"/>rio ſcriptum in alio vetuſto codi<g ref="char:EOLhyphen"/>ce, multis abhinc annis deſcripto.</p>
+               </div>
+               <div type="part">
+                  <pb n="75" facs="tcp:19148:46"/>
+                  <head>Omnis Chriſtianus ſiue ſe<g ref="char:EOLhyphen"/>cularis, fiue regularis modo ſub<g ref="char:EOLhyphen"/>ſequenti de ſua ſalute in<g ref="char:EOLhyphen"/>quirendus et <hi>infor<g ref="char:EOLhyphen"/>mandus eſt.</hi>
+                  </head>
+                  <p n="1">1 <hi>CRedis omnes principales ar<g ref="char:EOLhyphen"/>ticulos fidei, &amp; inſuper toti ſacrae Scripturae per omnia, ſecun<g ref="char:EOLhyphen"/>dum ſanctorum Catholicorum &amp; orthodoxorum, ſanctae Eccleſiae do<g ref="char:EOLhyphen"/>ctorum expoſitionem &amp; deteſtatis omnes hereſes &amp; errores at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſuper<g ref="char:EOLhyphen"/>ſtitiones, ab Eccleſia reprobatas: ac laetaris inſuper quod in fide Chriſti, ac vnitate matris Eccelſiae, ac obedi<g ref="char:EOLhyphen"/>entia morieris?</hi>
+                  </p>
+                  <p n="2">2 <hi>Cognoſcis te Creatorem tuum ſaepe &amp; multipliciter, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> grauiter offendiſſe.</hi>
+                  </p>
+                  <p n="3">
+                     <pb n="77" facs="tcp:19148:47"/>3 <hi>Doles ex toto corde de omni<g ref="char:EOLhyphen"/>bus peccatis contra Dei maiestatem amorem &amp; benignitatem, de malis commiſſis &amp; bonis omiſſis, &amp; grati<g ref="char:EOLhyphen"/>as neglectis, non ſolum timore mor<g ref="char:EOLhyphen"/>tis conturbatus, vel paenae cuiuſcu<g ref="char:cmbAbbrStroke">̄</g>
+                        <expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſed magis ex amore Dei?</hi>
+                  </p>
+                  <p n="4">4 <hi>Petis frater omnibus iſtis ve<g ref="char:EOLhyphen"/>niam a Ieſu Chriſto, optans per illum cor tuum illuminari ad cognitionem obliquorum, vt de illis valeas ſpeci<g ref="char:EOLhyphen"/>aliter paenitere?</hi>
+                  </p>
+                  <p n="5">5 <hi>Proponis te vereaciter velle eme<g ref="char:cmbAbbrStroke">̄</g>
+                        <g ref="char:EOLhyphen"/>dare ſi ſupervixeris, et nunqua<g ref="char:cmbAbbrStroke">̄</g> plus mortaliter peccare ſcienter, ſed
+<pb n="79" facs="tcp:19148:48"/> potius omnia quanticunque chara dimittere imo etiam vitam carna<g ref="char:EOLhyphen"/>lem perdere antequam Deum plus velles offendere.</hi>
+                  </p>
+                  <p>6 <hi>Rogas inſuper Deum vt det tibi gratiam hoc propoſitum continu<g ref="char:EOLhyphen"/>andi &amp; non recidiuandi.</hi>
+                  </p>
+                  <p>7 <hi>Indulges, ex toto corde, omnibus qui vnquam aliquid nocumentum verbo, vel facto tibi intulerunt, vel aliquo modo offenderunt, ob amorem &amp; venerationem Domini tui Ieſu Chriſti, a quo &amp; tu veniam ſperas<g ref="char:punc">▪</g> Petis etiam fideliter indulgeri &amp; remitti tibi ab ijs quos tu offendiſti quouis modo?</hi>
+                  </p>
+                  <p>8 <hi>Vis ablata reſtitui integraliter in quantu<g ref="char:cmbAbbrStroke">̄</g> teneris iuxta tuarum fa<g ref="char:EOLhyphen"/>cultatum valorem etiam vſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ad omnium bonorum tuorum c<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſſionem incluſiue, vbi alias, ſatisfactio fieri non valeret?</hi>
+                  </p>
+                  <pb n="79" facs="tcp:19148:49"/>
+                  <p>9 <hi>Credis quod parte mortuus ſit Christus &amp; quod aliter ſaluari non potes, niſi per meritum paſſionis Domini noſtri Ieſu Chriſti: &amp; agis etiam de hoc Deo gratias ex corde, quantum valeas.</hi>
+                  </p>
+                  <p>
+                     <hi>Quicun<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> autem ad praedictas interrogationes ex conſcientia bo<g ref="char:EOLhyphen"/>na, &amp; fide non ficta, vere poterit affirmatiue reſpondere, ſatis eui<g ref="char:EOLhyphen"/>dens argumentum ſalutis habet, ſi ſic deceſſerit, quod de numero ſal<g ref="char:EOLhyphen"/>uandorum erit.</hi>
+                  </p>
+               </div>
+            </div>
+            <div xml:lang="eng" type="version">
+               <pb n="64" facs="tcp:19148:40"/>
+               <p>
+                  <seg rend="decorInit">Q</seg>Veſtions to bee pro<g ref="char:EOLhyphen"/>pounded to ſicke per<g ref="char:EOLhyphen"/>ſons, whilſt they haue the vſe of reaſon, and power to ſpeake, to the end that if any be not ſo well diſpoſed to dye, he may bee better infor<g ref="char:EOLhyphen"/>med and prepared. And the queſtions be theſe, according to <hi>Anſelme</hi> the reuerend Biſhop.</p>
+               <p n="1">1 Let him be asked thus,</p>
+               <p>
+                  <hi>Brother</hi> doſt thou reioyce that thou ſhalt dye in the faith of Chriſt?</p>
+               <p>Anſ. I do.</p>
+               <p n="2">2 <hi>Brother,</hi> doſt thou ſorrow and grieue, for that thou haſt not liued ſo well as thou oughteſt?</p>
+               <p>The anſwere, I do</p>
+               <pb n="66" facs="tcp:19148:41"/>
+               <p>Brother: haſt thou a hearty purpoſe to liue better, if God giue thee time to liue?</p>
+               <p>Anſ. I haue.</p>
+               <p>Brother doſt thou beleeue that thou cannot be ſaued, but by the death of Chriſt?</p>
+               <p>Anſ. I do.</p>
+               <p>Doſt thou beleeue that Ieſus Chriſt the Sonne of God dyed for thee?</p>
+               <p>Anſ. I do.</p>
+               <p>Doſt thou giue thankes to God therefore from thy whole heart?</p>
+               <p>Anſ. I do.</p>
+               <p>Well then good brother, whilſt thy ſoule is yet in thy body giue him hearty thankes<g ref="char:punc">▪</g> and ſettle all thy aſſurance vpon his death alone: haue no confidence in any thing elſe: truſt thy ſelfe wholly to his paſſion: couer thy ſelfe wholly with it, faſten thy whole
+<pb n="68" facs="tcp:19148:42"/> ſelfe on his croſſe: caſt thy whole ſelfe into this ſea.</p>
+               <p>And if thy Lord God ſay hee will iudge thee; anſwere thou, Lord I obiect the death of my Lord Ieſus Chriſt betwixt me &amp; thy iudgement, otherwiſe I will not contend with thee.</p>
+               <p>And if God ſay to thee thou art a ſinner, anſwer: Lord it is ſo, but I ſet the death of my Lord Ieſus Chriſt betwixt thee &amp; my ſinnes: If hee ſay that thou haſt deſerued damnation, anſwer. It is true Lord, but I place the death and merits of my Lord Ieſus Chriſt betwixt thee and my ill deſeruings: and I offer vp him &amp; the moſt worthy merites of his paſſion, for the merits which I ſhould haue had, but (alas) haue not.</p>
+               <p>If the Lord ſay further that he is angry with thee, anſwere
+<pb n="70" facs="tcp:19148:43"/> him, Lord thou haſt cauſe, but I ſet the death and ſuffrings of my Lord Ieſus Chriſt, betwixt thy wrath and my ſoule.</p>
+               <p>Then let him ſay thriſe: <hi>Lord into thy hands I commend my ſpi<g ref="char:EOLhyphen"/>rit.</hi> And if he be ſo weake hee cannot, then let the company who ſtand by ſay, <hi>Lord into thy hands we commend his ſoule.</hi>
+               </p>
+               <p>He that doth thus is ſafe and ſecure, for, he ſhall neuer taſt of eternall death.</p>
+               <div type="part">
+                  <head>Alſo in another old booke <hi>I find this written.</hi>
+                  </head>
+                  <p>THeſe be the ſix ſignes vpon which a man may reſt confi<g ref="char:EOLhyphen"/>dent of his ſaluation.</p>
+                  <p n="1">1 If he beleeue the Articles of Chriſtian faith, as many as are determined by the Churche.</p>
+                  <p n="2">
+                     <pb n="72" facs="tcp:19148:44"/>2 If he reioyce to dye in the faith of Chriſt.</p>
+                  <p n="3">3 If hee know that hee hath grieuouſly offended God.</p>
+                  <p n="4">4 If he bee heartily ſorry for it.</p>
+                  <p n="5">5 If he reſolue to forſake his ſinnes, if God giue him life.</p>
+                  <p n="6">6 If he hope and beleeue to come to eternall ſaluation, not by his owne merits, but by the merits of Ieſus Chriſt.</p>
+                  <p>And <hi>Anſelme</hi> ſaith that theſe ſix queſtions are to bee asked of euery one at the time of his death, and ſaith further thus.</p>
+                  <p>Then ſay to the ſicke perſon: if Sathan obiect any thing againſt thee, oppoſe thou the merits of Chriſt betwixt thee and him: and thus without all doubt hee ſhall be ſaued.</p>
+                  <pb n="73" facs="tcp:19148:45"/>
+                  <p>
+                     <hi>This conſolation of the ſicke and preparation to their death is in an<g ref="char:EOLhyphen"/>cient Copies aſcribed to</hi> Anſelme, <hi>who liued more then 500 yeares a<g ref="char:EOLhyphen"/>goe, euen when Popery was almoſt growne to perfect age: Now if any man make question how our fathers were ſaued in theſe later and worſe times, when Popery preuailed in a greater meaſure; I anſwere that e<g ref="char:EOLhyphen"/>uen almoſt the ſame preparation, and ſame queſtions, were vſed long after</hi> Anſelme, <hi>euen in the deepeſt darke<g ref="char:EOLhyphen"/>neſſe of Popery: For in the moſt euill time about the Councell of</hi> Con<g ref="char:EOLhyphen"/>ſtance, <hi>ſome two hundred years ago, Thus I finde it written in ancient Booke, and it is aſcribed to</hi> Gerſon.</p>
+               </div>
+               <div type="part">
+                  <pb n="76" facs="tcp:19148:46"/>
+                  <head>Euery Chriſtian whether ſe<g ref="char:EOLhyphen"/>cular or regular is thus to be exa<g ref="char:EOLhyphen"/>mined and informed in his ſickneſſe touching his <hi>ſaluation.</hi>
+                  </head>
+                  <p n="1">1 DOeſt thou beleeue all the principal articles of faith, and all that is contained in the whole body of holy Scripture, according to the expoſition of the Catholicke and orthodoxall Doctors of the holy Church: and doſt thou deteſt all hereſies and errours and ſuperſtitions, con<g ref="char:EOLhyphen"/>demned or reproued by the Church: and art thou glad that thou dyeſt in the faith of Chriſt, and vnity and obedience of thy Mother the Church.</p>
+                  <p n="2">2 Doeſt thou know and con<g ref="char:EOLhyphen"/>feſſe that thou haſt many wayes and grieuouſly offended thy God and Creator.</p>
+                  <p n="3">
+                     <pb n="76" facs="tcp:19148:47"/>3 Doſt thou ſorrow from thy whole heart for all thy ſins com<g ref="char:EOLhyphen"/>mitted againſt Gods Maieſty his loue and mercy, art thou truely ſorrowful for the euils that thou haſt committed, and the good that thou haſt omitted, and the grace thou haſt neglected, and art thou agreiued, not ſo much for feare of death, or any puniſh<g ref="char:EOLhyphen"/>ment, as for that loue which thou oughteſt to beare towards God?</p>
+                  <p n="4">4 Doeſt thou beg pardon for all theſe thy ſins of Ieſus Chriſt, deſiring that by him thy heart may be enlightned, truely to ſee and know thy ſins, that ſo thou maiſt particularly and more ſeri<g ref="char:EOLhyphen"/>ouſly repent of them?</p>
+                  <p n="5">5 Doeſt thou propound and reſolue truly to amend thy life (if ſo be thou liue) and neuer here<g ref="char:EOLhyphen"/>after to ſinne ſo againe, but ra<g ref="char:EOLhyphen"/>ther
+<pb n="78" facs="tcp:19148:48"/> to looſe any thing how deere ſoeuer vnto thee, yea euen life it ſelfe, then to offend thy God againe?</p>
+                  <p n="6">6 Doeſt thou alſo deſire of God, grace to continue in this purpoſe, that thou maiſt not fall againe?</p>
+                  <p n="7">7 Doeſt thou forgiue from thy whole heart all that haue done thee any wrong in word or deed, for the loue of Chriſt Ieſus thy Lord and Sauiour, and as thou hopeſt for pardon from him: and doeſt thou hartily de<g ref="char:EOLhyphen"/>ſire to bee forgiuen of all men, whom thou haſt any way offen<g ref="char:EOLhyphen"/>ded?</p>
+                  <p n="8">8 Wilt thou that there be ful reſtitution made according to thy power, yea though it ſhould extend to thy whole eſtate, if o<g ref="char:EOLhyphen"/>therwiſe there cannot bee ſatiſ<g ref="char:EOLhyphen"/>faction made?</p>
+                  <p n="9">
+                     <pb n="80" facs="tcp:19148:49"/>9 Doeſt thou beleeue that Chriſt dyed for thee, and that thou canſt bee ſaued no other<g ref="char:EOLhyphen"/>wiſe but by the merites of Ieſus Chriſt: and doeſt thou giue God thankes for this from thy whole heart as much as thou art able.</p>
+                  <p>And whoſoeuer can giue true anſwere to theſe queſtions affirmatiuely, out of a good conſcience and faith not fay<g ref="char:EOLhyphen"/>ned; It is an euident and ſuf<g ref="char:EOLhyphen"/>ficient teſtimony of ſaluati<g ref="char:EOLhyphen"/>on, and let him not doubt but if he ſo depart, hee is one of them that ſhall be ſaued.</p>
+                  <pb n="81" facs="tcp:19148:50"/>
+                  <p>
+                     <hi>Behold heere good Reader our Religion practiſed in the moſt miſty times of Popery: behold heere the true, holy, Catholike and ancient way to heauen: Namely,</hi> By Chriſt and his merits alone. <hi>Heere is no tru<g ref="char:EOLhyphen"/>ſting on mans merits, either our own or others: Here is no mention of</hi> Ag<g ref="char:EOLhyphen"/>nus deis, <hi>or</hi> Wodden Crucifixes, <hi>He is not bid to trust in the prayers, ſuffrages, requiems, dirges, Maſ<g ref="char:EOLhyphen"/>ſes, Trentals, or other obſequies that ſhall be ſayd for him after his depar<g ref="char:EOLhyphen"/>ture. He is ſent to no Angell, no nor to the Virgin</hi> Mary, <hi>for matter of Saluation: Nay all are excluded, &amp; Chriſts death alone, euen it alone, is made the meanes of his Saluation, And the makers heereof were ſo re<g ref="char:EOLhyphen"/>ſolute, and zealous in this point, that they vſe ſuch variety of words, as though they could not ſufficiently ex<g ref="char:EOLhyphen"/>preſſe the excellency and the nece<g ref="char:EOLhyphen"/>ceſſity of cleauing to</hi> Chriſt alone
+<pb n="82" facs="tcp:19148:50"/> 
+                     <hi>in the matter of ſaluation.</hi>
+                  </p>
+                  <p>
+                     <hi>And if any man ſuspect that this is but deuiſed by vs, and falſely fathered vpon Antiquity, let him know that not onely we haue the an<g ref="char:EOLhyphen"/>cient Copies, whoſe age will speake for themſelues, but euen the better ſort of Papiſts, that be learned, doe know this well enough.</hi>
+                  </p>
+                  <p>A learned Papiſt of this age<note place="margin">Gaſper v<g ref="char:EOLhyphen"/>lenbergius. in lib. de Cauſis. Cau<g ref="char:EOLhyphen"/>ſa 14. pag. 462. editio<g ref="char:EOLhyphen"/>nis Colon. 1589.</note> writeth, that in a Church in <hi>Co<g ref="char:EOLhyphen"/>laine</hi> this very booke is extant (Manuſcript) and that hee hath ſeene it, and that this manner of <hi>comforting the ſicke was vſed in for<g ref="char:EOLhyphen"/>mer ages, and confeſſeth that it con<g ref="char:EOLhyphen"/>taines the very treaſure &amp; kernel of Chriſtian Religion, and ſaith fur<g ref="char:EOLhyphen"/>ther that this manner was vſed not in</hi> Germany <hi>onely, but ouer all the Chriſtian world: Indeed to the Ie<g ref="char:EOLhyphen"/>ſuits I confeſſe, this is held a ridicu<g ref="char:EOLhyphen"/>lous manner of comforting the ſicke, (ſuch a ſpirit poſſeſſeth them:</hi>)
+<pb n="83" facs="tcp:19148:51"/> 
+                     <hi>Thus doth</hi> Gretzer <hi>their Champi<g ref="char:EOLhyphen"/>on, flout vs</hi> Lutherans (<hi>as he cals vs) for thus doing.</hi>
+                  </p>
+                  <p>The <hi>Lutherans</hi> (ſaith hee) do<note place="margin">Iae. Gretze<g ref="char:EOLhyphen"/>rus in refutat Leyſeri de hiſtor. Ord. Ieſuit.</note> thus comfort their ſick. Relicks, Crucifixes, Agnus deis, and ſuch matters are but dead things, and nothing worth, the Scripture hath not a word of them: it is therefore very vngodly to truſt in them; but God is our hope, and God is our ſtrength truſt in him, &amp;c. On this wiſe faſhion do theſe godly comforters comfort their ſicke perſons.</p>
+                  <p>
+                     <hi>Thus in the Ieſuites iudgement it is but a ſeely courſe to trust in Gods mercy, and Chriſts merits, in points of ſaluation: Hereby it may be diſcerned of what spirit they are. But let them mocke vs, as long as with vs they mocke the Scriptures, Antiquity, and the better ſort of their owne ſide, for we appeale to this that
+<pb n="84" facs="tcp:19148:51"/> hath bene ſaid, whether this manner of comforting the ſicke were not in vſe long before</hi> Luther <hi>was borne:</hi>
+                  </p>
+                  <p>
+                     <hi>Now if any obiect that in the ſame bookes there is mention of the Crucifixe, and that it is appointed to be in the preſence of the ſicke per<g ref="char:EOLhyphen"/>ſon: I anſwere it is true, but not that he ſhould worſhip it, (as now the Ie<g ref="char:EOLhyphen"/>ſuits teach, and all the approued</hi>
+                     <note place="margin">Gregori. de valent. Gret<g ref="char:EOLhyphen"/>zerus, Vaſ<g ref="char:EOLhyphen"/>quez.</note> 
+                     <hi>Romiſh writers) but that it may put him in mind of Chriſt, which though it be a needleſſe ſuperstition, yet is it not that impiety and idolatrie, which now at this day is practiſed &amp; main<g ref="char:EOLhyphen"/>tained in the Romiſh Church, and my purpoſe is not to diſcharge thoſe times, nor our forefathers in thoſe times of errours, and ſuperſtitions, but of the idolatrie, impietie, and blaſphemy of the preſent Church of Rome. And the ſame anſwer is al<g ref="char:EOLhyphen"/>ſo to bee giuen to another obiection. That in the ſame booke there are
+<pb n="85" facs="tcp:19148:52"/> praiers to the Saints and Angels: It is ſo, and from that errour thoſe ages cannot bee cleered: but with all let vs ſtill obſerue that thoſe praiers are not to helpe them in matters of ſaluation, (as are many blaſphemous praiers now vſuall in Popery:) and that ſin in thoſe miſtie times (being a ſinne of ignorance) no doubt was pardoned vnto them in the mercy of God, ſeeing that for their reconcilia<g ref="char:EOLhyphen"/>tion with God, and eternall ſalua<g ref="char:EOLhyphen"/>tion, they beleeued to attaine it one<g ref="char:EOLhyphen"/>ly by the merits and paſſion of Ieſus Chriſt. But let not vs feed on their infirmities, but louingly paſſe by them, and let this content and com<g ref="char:EOLhyphen"/>fort vs, that their meanes of ſalua<g ref="char:EOLhyphen"/>tion which they vſed and truſted vn<g ref="char:EOLhyphen"/>to, is the ſame with ours at this day: for better teſtimony whereof, let vs ſet downe ſome of their praiers, be<g ref="char:EOLhyphen"/>ing ſuch as the beſt Chriſtian may vſe at this day with much comfort.</hi>
+                  </p>
+               </div>
+            </div>
+         </div>
+         <div xml:lang="lat" type="prayers">
+            <pb n="86" facs="tcp:19148:52"/>
+            <head>Certaine Praiers vſed by our Fore-fathers in the darkeſt times of Popery, in the time of a mans ſicke<g ref="char:EOLhyphen"/>neſſe: ſome to bee made for the ſicke, and ſome by the ſicke perſon: gathered out of the ſame ancient books. When the ſicke perſon feeles his ſtrength to faile, then let him commend his ſoule to God in <hi>this Praier.</hi>
+            </head>
+            <div type="prayer">
+               <pb n="87" facs="tcp:19148:53"/>
+               <p>
+                  <hi>O ſumma Deitas, immenſa, cle<g ref="char:EOLhyphen"/>mentiſſima, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> glorioſiſſima Trini<g ref="char:EOLhyphen"/>tas, ſumma dilectio, amor &amp; chari<g ref="char:EOLhyphen"/>tas, miſerere mei miſerrimi peccato<g ref="char:EOLhyphen"/>ris: tibi enim commendo ſpiritum meum. Deus meus pijſſimus, pater miſerecordiarum, miſerecordiam fac huic pauperculae Creaturae, &amp; in vltima neceſſitate mea ſuccurreiam Domine indigenti animae, &amp; deſola<g ref="char:EOLhyphen"/>tae, vt non a canibus infernalibus de<g ref="char:EOLhyphen"/>uoretur.</hi>
+               </p>
+               <p>
+                  <hi>O dulciſſime, &amp; amantiſſime Domine Ieſu Chriſti, fili Dei viui, ob honorem, &amp; virtutem beatiſſimae paſſionis, iube me recepi inter nume<g ref="char:EOLhyphen"/>rum electorum tuorum:</hi>
+               </p>
+               <pb n="89" facs="tcp:19148:54"/>
+               <p>
+                  <hi>Saluator &amp; Redemptor meus, reddo me totu<g ref="char:cmbAbbrStroke">̄</g> tibi: vt me non renuas â venia, nec repellas à gloria tua. At ô Domine Ieſu Chriſte, paradiſum tuum postulo, non ob valorem meri<g ref="char:EOLhyphen"/>torum meoru<g ref="char:cmbAbbrStroke">̄</g>, cum ſum puluis &amp; ci<g ref="char:EOLhyphen"/>nis, &amp; peccator miſerrimus ſed in virtute &amp; efficacia, tuae ſanctiſſimae paſſionis, per quam me miſerimu<g ref="char:cmbAbbrStroke">̄</g> re<g ref="char:EOLhyphen"/>dimere voluiſti, &amp; mihi paradiſum tuo pretioſo ſanguine emere digna<g ref="char:EOLhyphen"/>tus es. Igitur per illam amaritudi<g ref="char:EOLhyphen"/>nem quam pro me ſuſtinere voluisti in Cruce, maxime in illa hora quan<g ref="char:EOLhyphen"/>do ſanctiſſima anima tua egreſſa eſt de corpore tuo, miſerere animae meae in egreſſu ſuo.</hi>
+               </p>
+               <pb n="91" facs="tcp:19148:55"/>
+               <p>
+                  <hi>Deinde dicat pluries diripuisti Domine vincula mea, tibi ſacrifica<g ref="char:EOLhyphen"/>bo hoſtiam laudis.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>Deinde cum ipſe viſum loquelae amiſerit, orationes ſequentes dicantur ſuper <hi>infirmum laborantem ab aliquo preſentium, ſi ad<g ref="char:EOLhyphen"/>huc ſuperuiuit.</hi>
+               </head>
+               <p>
+                  <hi>QVaeſumus, miſerecors pater, ſe<g ref="char:EOLhyphen"/>cundum multitudinem miſe<g ref="char:EOLhyphen"/>rationum tuarum, reſpice propitius ſuper hunc famulu<g ref="char:cmbAbbrStroke">̄</g> tuum, fratrem noſtrum, remiſſionem omnium pecca<g ref="char:EOLhyphen"/>torum ſuorum tota cordis confeſſione poſcentem: Exaudi deprecantes, &amp; renoua in eo, pijſſime pater, quicquid in eo terrena fragilitate corruptum
+<pb n="93" facs="tcp:19148:56"/> eſt, vel quicquid Diabolica fraude violatum eſt, &amp; vnitati corporis Ec<g ref="char:EOLhyphen"/>cleſiae membrum redemptionis con<g ref="char:EOLhyphen"/>grega. Miſerere Domine gemituu<g ref="char:cmbAbbrStroke">̄</g> ſuorum, miſerere lachrimarum eius, &amp; in habentem fiduciam niſi in mi<g ref="char:EOLhyphen"/>ſerecordia tua ad tuae reconciliatio<g ref="char:EOLhyphen"/>nis ſacrameutum admitte. In ma<g ref="char:EOLhyphen"/>nus igitur in extinguibilis miſerecor<g ref="char:EOLhyphen"/>diae tuae, pater ſanctiſſime, co<g ref="char:cmbAbbrStroke">̄</g>mende<g ref="char:EOLhyphen"/>mus ſpiritum famuli tui fratris no<g ref="char:EOLhyphen"/>ſtri, ſecundu<g ref="char:cmbAbbrStroke">̄</g> magnitudinem amoris quo ſe anima filij tui ſanctiſſima in cruce tibi co<g ref="char:cmbAbbrStroke">̄</g>mendabit ſupplicater de<g ref="char:EOLhyphen"/>precantes quatenus per illa<g ref="char:cmbAbbrStroke">̄</g> ineſtima<g ref="char:EOLhyphen"/>bile<g ref="char:cmbAbbrStroke">̄</g> diuinitate<g ref="char:cmbAbbrStroke">̄</g> quam tua diuina bo<g ref="char:EOLhyphen"/>nitas in ſe tota<g ref="char:cmbAbbrStroke">̄</g> traxit illam ſanctiſ<g ref="char:EOLhyphen"/>ſiman</hi>
+                  <pb n="95" facs="tcp:19148:57"/> 
+                  <hi>animam, vt in hora vltima famuli tui, fratris noſtri, ſuſcipias in eodem amore ſpiritum eius.</hi>
+               </p>
+               <p>
+                  <hi>Et tu dulciſſime redemptor, pijſſi<g ref="char:EOLhyphen"/>me Ieſu, per illam lacrimabilem vo<g ref="char:EOLhyphen"/>cem quam moriturus emiſiſti, cum pro nobis doloribus &amp; laboribus paſ<g ref="char:EOLhyphen"/>ſionis adeo conſumptus es, vt te dere<g ref="char:EOLhyphen"/>lictum à patre clamabas. Ne longe facias à famule tuo, fratre noſtro, auxilium tuae miſerationis in hora &amp; in momento afflictionis animae ſuae prae defectione &amp; conſumptione ſpi<g ref="char:EOLhyphen"/>rit us te inuocare in extrema hora mortis ſcire non valente: ſed per tri<g ref="char:EOLhyphen"/>umphum ſanctae crucis &amp; per ſalu<g ref="char:EOLhyphen"/>tem
+<pb n="97" facs="tcp:19148:58"/> ſalutiferae paſſionis &amp; amoro<g ref="char:EOLhyphen"/>ſae mortis tuae, cogitade eo cogitationes pacis, &amp; no<g ref="char:cmbAbbrStroke">̄</g> afflictonis ſed miſerecor<g ref="char:EOLhyphen"/>diſſimae miſerationis &amp; co<g ref="char:cmbAbbrStroke">̄</g>ſolationis: &amp; libera eam de omnibus anguſtijs, erue eam a a tormentis ſibi deputatis &amp; perduc eam in requie<g ref="char:cmbAbbrStroke">̄</g> aeternum: O Domine Ieſu Christe, qui redemiſti nos precioſo ſanguine tuo, ſcribe in anima huius famuli tui vulnera tua pretioſo ſanguine tuo, vt diſcat in eis legere tuum dolorem &amp; tuum a<g ref="char:EOLhyphen"/>morem: dolorem contra omnes dolo<g ref="char:EOLhyphen"/>res &amp; paenas quas pro peccatis ſuis ſe timet meruiſſe: Amorem vt vnia<g ref="char:EOLhyphen"/>tur tibi amore inuiſibili, quo a te &amp; omnibus electis tuis, nunquam poſſit in aeternum ſeperari:</hi>
+               </p>
+               <pb n="99" facs="tcp:19148:59"/>
+               <p>
+                  <hi>Et fac cum Domine Ieſu Chriſts participem ſacratiſſimae incarnationis paſſionis, reſurrectionis &amp; aſcenti<g ref="char:EOLhyphen"/>onis tuae: fac eum participem ſacrati<g ref="char:EOLhyphen"/>ſſimoru<g ref="char:cmbAbbrStroke">̄</g> mysteriorum &amp; ſacramen<g ref="char:EOLhyphen"/>torum tuorum: Fac eam participem omnium orationum ac benefactorum quae fuerunt in Eccleſia ſancta tua. Fac eam participem omnium bene<g ref="char:EOLhyphen"/>dictionum, gratiarum, &amp; gaudio<g ref="char:EOLhyphen"/>rum ominum electorum tuorum, ab initio mundi, &amp; concede vt cum his omnibus in tuo conspectu gaudeat in aeternum: Domine qui oraſti pro nobis in monte</hi> Oliueti, <hi>obſecra<g ref="char:EOLhyphen"/>mus te vt multitudine<g ref="char:cmbAbbrStroke">̄</g> ſanguinis et ſudoris quem prae anguſtia tua copio<g ref="char:EOLhyphen"/>ſiſſime pro nobis effudiſti, oſtendere digneris &amp; offerre deo patri omnipo<g ref="char:EOLhyphen"/>tenti contra multitudinem omnium
+<pb n="101" facs="tcp:19148:60"/> peccatorum huius famuli tui fratris noſtri, &amp; libera cum in hac hora mortis ſuae ab omnibus paenis &amp; an<g ref="char:EOLhyphen"/>gustijs quas pro peccatis fuis timet ſe meruiſſe; ſalua animam eius in hac hora exitus ſui, et aperi ei Ianuam vitae, &amp; fact eam gaudere cum ſan<g ref="char:EOLhyphen"/>ctis in gloria aeterna, per tua merita Domine Ieſu Christe, qui cum Deo patre, &amp; ſpiritu Sancto viuis &amp; reg-Deus in ſecula.</hi>
+               </p>
+               <p>Cum autem eius vires deficient &amp; animam emiſſurum videa<g ref="char:EOLhyphen"/>tur, commendetur anima per aliquem aſtantium, hoc mo<g ref="char:EOLhyphen"/>do.</p>
+            </div>
+            <div type="prayer">
+               <pb n="103" facs="tcp:19148:61"/>
+               <head>Commendatio animae morientis.</head>
+               <p>
+                  <hi>COmmendo te omnipotenti Deo (chariſſime frater) et ei, cuius es creatura committo: proficiſcere anima Chriſtiana de hoc miſero mundo. In nomine</hi> Patris <hi>omni<g ref="char:EOLhyphen"/>potentis qui te creauit. In nomi<g ref="char:EOLhyphen"/>ne</hi> Ieſu Chriſti <hi>filij eius qui pro te paſſus eſt. In nomine</hi> Spiritus San<g ref="char:EOLhyphen"/>cti, <hi>qul in te fuſus est. Egrediente aute animatua de corpore, ſplendi<g ref="char:EOLhyphen"/>dus Angelorum caetus tibi occurrat, &amp; omnium ſanctorum caetus te ac<g ref="char:EOLhyphen"/>cipiat:
+<pb n="105" facs="tcp:19148:62"/> appareat tibi mitis, &amp; cle<g ref="char:EOLhyphen"/>mens, Ieſus Chriſtus, qui inter aſſiſ<g ref="char:EOLhyphen"/>tentes ſibi te iugiter intereſſe de<g ref="char:EOLhyphen"/>cernat, vt locus tuus in pace ſit, &amp; habitatio tua in</hi> Hieruſalem <hi>coele<g ref="char:EOLhyphen"/>ſti: Ignores omnino quid horret in tenebris, quid ſtridet in flammis, quid cruciat in tormentis. Cedat ti<g ref="char:EOLhyphen"/>bi nequiſſimus Sathan cum ſatelliti<g ref="char:EOLhyphen"/>bus ſuis: nec in aduentu ſuo te vincat, ſedcoram angelis dei contremiſcat as in aterna noctis chaos immane diffu<g ref="char:EOLhyphen"/>giat: at exurget Deus &amp; diſſipentur omnes inimici eius, ſicut deficit fu<g ref="char:EOLhyphen"/>mus ita deficiant. Iuſti autem exul<g ref="char:EOLhyphen"/>tentur,
+<pb n="107" facs="tcp:19148:63"/> &amp; exultent in conſpectu Dei: Confundantur igitur &amp; erubeſcant ante te tar tareae legiones &amp; miniſtri ſatanae iter tuum impedire non au<g ref="char:EOLhyphen"/>dea<g ref="char:cmbAbbrStroke">̄</g>t: Liberet te à cruciatu Chriſtus qui pro te mori dignatus eſt, &amp; con<g ref="char:EOLhyphen"/>ſtituet te Chriſtus filius Dei inter paradiſi ſui amena &amp; ſemper viren<g ref="char:EOLhyphen"/>tia, &amp; i am inter oues ſuos verus te ille paſtor agnoſcat. Ille ab omni<g ref="char:EOLhyphen"/>bus peccatis tuis abſoluat, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ad dextram in electorum ſuorum ſorte te conſtituat, vt redemptorem tuum facie ad faciam videas &amp; co<g ref="char:cmbAbbrStroke">̄</g>ſtitutum
+<pb n="109" facs="tcp:19148:64"/> agmina beatorum contemplationis diuinae gaudio potiaris in ſecula ſae<g ref="char:EOLhyphen"/>culonum.</hi>
+               </p>
+               <closer>Amen.</closer>
+            </div>
+         </div>
+         <div xml:lang="eng" type="prayers">
+            <pb n="86" facs="tcp:19148:52"/>
+            <head>Certaine Praiers vſed by our Fore-fathers in the darkeſt times of Popery, in the time of a mans ſicke<g ref="char:EOLhyphen"/>neſſe: ſome to bee made for the ſicke, and ſome by the ſicke perſon: gathered out of the ſame ancient books. When the ſicke perſon feeles his ſtrength to faile, then let him commend his ſoule to God in <hi>this Praier.</hi>
+            </head>
+            <div type="prayer">
+               <pb n="88" facs="tcp:19148:53"/>
+               <p>O Moſt high and ſoueraigne God whoſe goodneſſe and mercie is infinite: ô moſt glori<g ref="char:EOLhyphen"/>ous Trinity, which art loue, and mercie, and goodneſſe it ſelfe, haue mercy on me moſt miſera<g ref="char:EOLhyphen"/>ble ſinner, for vnto thee, and vn<g ref="char:EOLhyphen"/>to thy hands I commend my ſpirit: ô Lord, my moſt louing God, &amp; father of mercies, ſhew thy mercy on me thy poore cre<g ref="char:EOLhyphen"/>ature, and forſake mee not in my laſt neede, but ſtand with me Lord, and helpe my ſuccourleſſe ſoule, ſaue my poore and deſo<g ref="char:EOLhyphen"/>late ſoule, that it bee not deuou<g ref="char:EOLhyphen"/>red of the infernall dogges.</p>
+               <p>O moſt louing Lord, &amp; ſweet Sauiour Ieſus Chriſt, the ſonne of the liuing God, I beſeech thee for the honor, and by the vertue of thy moſt bleſſed paſſion com<g ref="char:EOLhyphen"/>mand that I may be receiued in<g ref="char:EOLhyphen"/>to
+<pb n="90" facs="tcp:19148:54"/> the number of thy Saints, and ſeruants.</p>
+               <p>O my Sauiour &amp; my Redeemer I here yeeld vp my ſelfe wholly to thee, O grant mee thy grace and thy glory, vochſafe me par<g ref="char:EOLhyphen"/>don of my ſin, and giue me a por<g ref="char:EOLhyphen"/>tion of thy glory. But ô my deere Lord, I chalenge not a place in heauen for any worthines of my owne merits, for I am but duſt &amp; aſhes, &amp; a moſt wretched finner: but for the vertue of thy moſt bleſſed paſſio<g ref="char:cmbAbbrStroke">̄</g>, by which thou did<g ref="char:EOLhyphen"/>deſt vouchſafe to redeeme mee miſerable man, and to purchaſe heaue<g ref="char:cmbAbbrStroke">̄</g> for me, euen with the price of thy precious bloud. I beſeech thee therefore by thy moſt bleſ<g ref="char:EOLhyphen"/>ſed, &amp; bitter paſſion, which thou ſuſtainedſt on the Croſſe for me, eſpecially in that houre whe<g ref="char:cmbAbbrStroke">̄</g> thy bleſſed ſoule did leaue the body, that thou wouldeſt haue mercy on my poore ſoule at the time of my departure.</p>
+               <pb n="92" facs="tcp:19148:55"/>
+               <p>Then let him lift vp his heart with ioy and thankſgiuing, and ſay, Lord thou haſt broken my bonds, therefore I will offer to thee the ſacrifice of praiſe.</p>
+            </div>
+            <div type="prayer">
+               <head>After, if his weakneſſe grow ſo that hee looſe the vſe of his ſpeech, let ſome of the by-ſtan<g ref="char:EOLhyphen"/>ders ſay theſe prayers follow<g ref="char:EOLhyphen"/>ing ouer him, or more <hi>if he liue ſo long.</hi>
+               </head>
+               <p>MErcifull God and Father wee beſeech thee for the multitudes of thy mercies, look fauourably vpon this thy ſeruant (our deere brother) who with true and hearty confeſſion ſeeks pardon of all his ſinnes at the hand of thy mercies, O Lord heare vs for him, and we beſeech thee for him, moſt holy father, to renew in his heart what euer is
+<pb n="94" facs="tcp:19148:56"/> corrupted by the frailty of his fleſh, and reſtore that grace which the wily and malicious e<g ref="char:EOLhyphen"/>nemy the diuell hath ſtolne out of his ſoule: O Lord recall him to the vnity of thy Church; in<g ref="char:EOLhyphen"/>graft him into the body of thy ſoule. O Lord take pitty of the ſighes and ſobbes of his ſoule, and groanes of his heart, o Lord looke vpon his teares, gather them in thy bottle, and be good to him, who hath no hope, com<g ref="char:EOLhyphen"/>fort nor confidence, but in thy mercy, and ſeale vp the aſſurance of his reconciliation with thee. O moſt holy Father we humbly commend the ſoule of this thy ſeruant, and our brother into the hands of thy vnmeaſureable mercies, humbly beſeeching thee, according to the greatneſſe of that loue in which the bleſſed ſoule of thy ſonne did commend
+<pb n="96" facs="tcp:19148:57"/> it ſelfe into thy holy hands, that for the worthineſſe of that infi<g ref="char:EOLhyphen"/>nite loue of thine, in which thou didſt receiue that holy ſoule vn<g ref="char:EOLhyphen"/>to thy ſelfe, thou wouldſt vouch<g ref="char:EOLhyphen"/>ſafe in this our brothers laſt houre, to receiue his poore ſoule alſo and make it partaker of the ſame loue.</p>
+               <p>And thou moſt ſweete Sauiour and moſt mercifull Lord Ieſus, thou that dying on the croſſe was ſo preſſed with anguiſh and torments for vs, as made thee ſound out that pittiful voyce vn<g ref="char:EOLhyphen"/>to thy Father: <hi>My God, my God, why haſt thou forſaken me,</hi> we be<g ref="char:EOLhyphen"/>ſeech thee eſtrange not thy ſelfe, and turne not away thy face fro<g ref="char:cmbAbbrStroke">̄</g> thy ſeruant our brother, now in the houre of his ſoules affliction, when his ſtrength faileth, and his ſpirits are ſo ſpent that he cannot cal vpon theee: heare vs O Lord:
+<pb n="98" facs="tcp:19148:58"/> heare vs for him, and for that thy glo<g ref="char:EOLhyphen"/>rious victory in which thou didſt tri<g ref="char:EOLhyphen"/>umph on the croſſe, &amp; for thy preti<g ref="char:EOLhyphen"/>ous paſſion and bitter death thinke of him the thoughts of mercy and not of iuſtice: ſhed thy mercies in his ſoule &amp; ſpeak co<g ref="char:cmbAbbrStroke">̄</g>fortably to his conſcience, deliuer his ſoule out of all ſpirituall diſtreſſe, ſaue him fro<g ref="char:cmbAbbrStroke">̄</g> the torme<g ref="char:cmbAbbrStroke">̄</g>ts due vnto his deſeruings, &amp; bring him, for thy own merits ſake, to eternal reſt. O Lod Ieſus Chriſt which didſt redeem vs with thy precious bloud, write with thine own bloud, in the ſoule, and in<g ref="char:EOLhyphen"/>graue thy wounds in the heart of this thy ſeruant, that in the<g ref="char:cmbAbbrStroke">̄</g> he may ſee &amp; read thy doleful ſuffrings &amp; thy ſweet loue: thy ſufferings that they may be effectual to raſome him fro<g ref="char:cmbAbbrStroke">̄</g> thoſe ſor<g ref="char:EOLhyphen"/>rows &amp; torments which he hath meri<g ref="char:EOLhyphen"/>ted by his ſins: thy loue that it may v<g ref="char:EOLhyphen"/>nite his heart to thee, in inuiſible &amp; in<g ref="char:EOLhyphen"/>ſeparable bonds, ſo as he may neuer be ſeperated fro<g ref="char:cmbAbbrStroke">̄</g>, thee nor thy Saints, for euer and euer.</p>
+               <pb n="100" facs="tcp:19148:59"/>
+               <p>And Lord Ieſus Chriſt we be<g ref="char:EOLhyphen"/>ſeech thee make his ſoule parta<g ref="char:EOLhyphen"/>ker of all the merits of thy moſt ſacred incarnation, paſſion, re<g ref="char:EOLhyphen"/>ſurrection, and aſcention. Make him pertaker of the vertue of thy moſt bleſſed ſacraments, and all thy holy myſteries. Make him pertaker of all the praiers &amp; good deedes done in thy whole Church. Make him pertaker of al the bleſſings, graces, and com<g ref="char:EOLhyphen"/>forts of all thy elect, and grant that with them all he may liue in thy preſence for euermore. O Lord which powred out thy prayer for vs on the mount <hi>Oli<g ref="char:EOLhyphen"/>uet,</hi> and ſweat water and bloud, wee beſeech thee, let that preci<g ref="char:EOLhyphen"/>ous bloud of thine, which thou didſt ſo aboundantly poure out for our ſaluation, let it bee pre<g ref="char:EOLhyphen"/>ſented and offered to thy father to ſtand againſt the multitude of
+<pb n="102" facs="tcp:19148:60"/> of the ſinnes of this thy ſeruant, our brother: Lord be with him at his laſt houre, and then deliuer him from the anguiſh and tor<g ref="char:EOLhyphen"/>ments which for his ſins he may iuſtly feare: Graciouſly receiue his ſoule in the houre of his de<g ref="char:EOLhyphen"/>parture: open the gate of hea<g ref="char:EOLhyphen"/>uen vnto him, and giue him a portion with thy Saints in glory, for thy owne moſt glorious me<g ref="char:EOLhyphen"/>rite, O Lord Ieſus Chriſt, who with God the Father, and the holy Ghoſt, liueſt and raigneſt one God for euermore, Amen.</p>
+               <p>
+                  <hi>And when the ſicke mans ſtrength beginnes to faile, and the ſoule is ready to depart: then let the ſoule be commended to God by one of the by-ſtanders on this manner.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="104" facs="tcp:19148:61"/>
+               <head>The Commendation of the ſoule to be ſaid at a mans <hi>death.</hi>
+               </head>
+               <p>I Heere commend thee to Al<g ref="char:EOLhyphen"/>mighty God moſt deere bro<g ref="char:EOLhyphen"/>ther, and I commit thee to him whoſe creature thou art. Go forth therefore O Chriſtian ſoule, get thee gone out of this filthy world, go forth in the name of the Almighty <hi>Father</hi> who created thee, in the name of <hi>Ieſus Chriſt,</hi> who dyed for thee, in the name of the <hi>holy Ghost</hi> who hath bene poured out vpon thee: And when thou (happy ſoule) art deliuered out of the priſon of the body, the glorious quire of heauenly Angels meet thee, and the company of all ho<g ref="char:EOLhyphen"/>ly Saintes entertaine thee: the lo<g ref="char:EOLhyphen"/>uing
+<pb n="106" facs="tcp:19148:62"/> countenance and cheereful face of Ieſus Chriſt ſhine vpon thee, a mercifull Iudge bee hee vnto thee, that thou maiſt haue ſentence to ſit for euer amongſt his Saints, on his right hand: thy dwellings be in peace, and thy ſaluation in the heauenly <hi>Ieruſa<g ref="char:EOLhyphen"/>lem</hi> for euermore, farr be it from thee euer to feele or know how horrible the darkneſſe, how ter<g ref="char:EOLhyphen"/>rible the flames, and how intol<g ref="char:EOLhyphen"/>lerable the torments of hell are, Sathan and all his helliſh guard be they confounded at thy pre<g ref="char:EOLhyphen"/>ſence, and if hee dare ſet vpon thee, victory and triumph be on thy ſide, ſhame and trembling fall vpon him from the preſence of Gods Angels, and be hee ba<g ref="char:EOLhyphen"/>niſhed into the blacke miſts, and confuſed chaos of eternall dark<g ref="char:EOLhyphen"/>neſſe. But let the Lord ariſe and let his enemies be ſcattered, and
+<pb n="108" facs="tcp:19148:63"/> as the ſmoake vaniſheth, ſo let them flye away. But let the iuſt be exalted and reioyce in the preſence of the Lord: let the in<g ref="char:EOLhyphen"/>fernall legions not dare to touch theee, nor all Sathans helhounds preſume to hinder thee, and hee who diſdained not to dye for thee, be hee thy Sauiour and de<g ref="char:EOLhyphen"/>liuerer from all ſpirituall vexati<g ref="char:EOLhyphen"/>on. Be the gates of paradiſe o<g ref="char:EOLhyphen"/>pen vnto thee, &amp; thy Chriſt giue thee thy place and manſion in the ſame. And he that is the true Paſtor, and great Sheepeheard of the Sheepe acknowledge thee for one of his true Sheepe, and receiue thee into his fold, Ieſus Chriſt abſolue thee from all thy ſins, and place thee on his right hand among his elect, that there thou maiſt ſee thy Redeemer face to face, &amp; in the ſociety of bleſ<g ref="char:EOLhyphen"/>ſed
+<pb n="110" facs="tcp:19148:64"/> ſed ſoules maiſt enioy the com<g ref="char:EOLhyphen"/>forts of heauenly co<g ref="char:cmbAbbrStroke">̄</g>templation, and the bleſſed viſion of God, for euer and euer.</p>
+            </div>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="to_the_reader">
+            <pb facs="tcp:19148:65"/>
+            <pb facs="tcp:19148:65"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ee, Chriſtian bro<g ref="char:EOLhyphen"/>ther, how in the worſt times they were prepared to die, and commen<g ref="char:EOLhyphen"/>ded to God: if the ancient books did not proclaime this truth, ſome would not be<g ref="char:EOLhyphen"/>leeue but that they had been made in this latter time. But ſeeing the truth cannot be de<g ref="char:EOLhyphen"/>nied, I deſire thee with me to obſerue theſe few collecti<g ref="char:EOLhyphen"/>ons ariſing out of due conſi<g ref="char:EOLhyphen"/>deration of the premiſſes.</p>
+            <p n="1">
+               <pb facs="tcp:19148:66"/>1. Heere is anſwere to that great queſtion, how our fore<g ref="char:EOLhyphen"/>fathers were ſaued, euen by the ſame faith as we are at this day.</p>
+            <p n="2">2. How truly <hi>Chriſt</hi> perfor<g ref="char:EOLhyphen"/>med his promiſe, namely, that the gates of hell ſhould not preuaile againſt the true faith, for ſo we ſee that in the vileſt times this Faith hath beene preſerued.</p>
+            <p n="3">3. Obſerue how here is no touch, nor once mention of Purgatory, nor of any thing to be done for their good af<g ref="char:EOLhyphen"/>ter this life.</p>
+            <p n="4">4. Here is no relation to a<g ref="char:EOLhyphen"/>ny pardons or indulgences from the Pope.</p>
+            <p n="5">5. Here is no neceſsity laid
+<pb facs="tcp:19148:66"/> downe of ſending for a Prieſt to bring his Hoſte, and his Pix, and his holy water, and his Taper: Theſe matters, it ſeemes, are rather comman<g ref="char:EOLhyphen"/>ded &amp; preſſed vpon the peo<g ref="char:EOLhyphen"/>ple by the Romiſh Cleargie<g ref="char:punc">▪</g> then much regarded by the wiſer, and godlier ſort of our forefathers: neither are they commanded to ſtay till the Prieſt come, but (ſaith the booke) let theſe prayers bee ſaid, and the Commendation of his ſoule, by one of the by<g ref="char:EOLhyphen"/>ſtanders.</p>
+            <p>Laſtly, let it bee obſerued, that in all theſe prayers and commendations, and queſti<g ref="char:EOLhyphen"/>ons (and theſe ſaith the booke are all that be of neceſsity to
+<pb facs="tcp:19148:67"/> be ſaid) here is not one ſmack of Popiſh idolarry, or ſuper<g ref="char:EOLhyphen"/>ſtition.</p>
+            <p>In theſe reſpects I haue thought it no needleſſe la<g ref="char:EOLhyphen"/>bour to communicate theſe to thee (deere brother,) I know there be ſtore of godly prayers and meditations al<g ref="char:EOLhyphen"/>ready extant. But theſe are of a ſpecial vſe more then others and are venerable for their antiquity. And are to be the more welcome, becauſe God preſerued the<g ref="char:cmbAbbrStroke">̄</g> in the hands of our very enemies. And thogh they were mingled with o<g ref="char:EOLhyphen"/>ther things not ſo good, yet<note place="margin">Hieronym. ad Laetum. Grandis prudentiae eſt aurum in luto quaere<g ref="char:EOLhyphen"/>re.</note> let vs know as S. <hi>Hierome</hi> tels vs, that it is no ſmall point of wiſdome, to ſeeke out
+<pb facs="tcp:19148:67"/> gold out of mire and clay.</p>
+            <p>Make vſe of theſe, and helpe mee with thy prayers, and thou ſhalt ſhortly (if God permit) bee perta<g ref="char:EOLhyphen"/>ker of more.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:19148:68"/>
+            <pb facs="tcp:19148:68"/>
+            <p>
+               <figure>
+                  <p>TAM ROBVR. TAM ROBOR. NI-COLIS ARBOR IOVIS. 1610.</p>
+                  <figDesc>printer's device of Nicholas Okes</figDesc>
+               </figure>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Leonard Becket,</hi> and are to be ſold at his Shop in the Temple neere the Church, 1611.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
